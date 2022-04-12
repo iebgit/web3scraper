@@ -1,0 +1,42 @@
+.dropdown-btn {
+  padding: 10px;
+}
+
+.img0 {
+  cursor: pointer;
+  background-color: none;
+  height: 40px;
+  width: 40px;
+  transition: 0.5s;
+}
+
+.link {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.link:hover {
+  color: white !important;
+}
+
+.dropdown-img {
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+}
+
+.img1 {
+  margin-top: 10px;
+  cursor: pointer;
+  height: 40px;
+  width: 40px;
+  transition: 0.3s;
+}
+
+.img0:hover {
+  transform: scale(1.05);
+}
+
+.img1:hover {
+  background-color: white !important;
+}
