@@ -151,55 +151,7 @@ class App extends Component<IProps, IState> {
     const networks = await networksData.json();
     this.setState({ networks });
     console.log(networks)
-  }
-  // function no longer needed due to seperate program updating database
-
-  // getNews = async () => {
-  //   try {
-  //     await this.fetchNetworks()
-  //     await this.fetchDB()
-  //     // get timestamp data stored in firebase and compare to current timestamp
-  //     // const ts = new Date().getTime();
-  //     // const lastTimestamp = await window.fetch(
-  //     //   'https://web3domain-default-rtdb.firebaseio.com/news/ts.json?print=pretty'
-  //     //   );
-  //     // await this.fetchNetworks();
-  //     // const lastTs = await lastTimestamp.json(); 
-  //     // console.log(`⏳ ~ ${(60 - (((Number(ts) - Number(lastTs))/ 1000) / 60)).toFixed()} MINUTES UNTIL NEWS UPDATE`)
-  //     // will only update database if current timestamp is greater than an hour after last update 
-  //     // if(ts > lastTs + 3600000){
-  //     //   let options:any = {
-  //     //     method: 'GET',
-  //     //     url: 'https://crypto-news-live3.p.rapidapi.com/news',
-  //     //     headers: {
-  //     //       'x-rapidapi-host': 'crypto-news-live3.p.rapidapi.com',
-  //     //       'x-rapidapi-key': process.env.REACT_APP_RAPIDAPI
-  //     //     }
-  //     //   };
-
-  //     //   axios.request(options).then(async function (response) {
-  //     //     console.log(response.data);
-  //     //     console.log(ts);
-  //     //     const data = await response.data
-  //     //     window.fetch('https://web3domain-default-rtdb.firebaseio.com/news.json', {
-  //     //       method: 'PUT',
-  //     //       headers: {
-  //     //           'Content-Type': 'application/json; charset=UTF-8'
-  //     //       },
-  //     //       body: JSON.stringify({
-  //     //     ts, data
-  //     //     })})
-  //     //     console.log(`⌛ NEWS DATABASE UPDATED`)
-  //     //     ;}).catch(function (error) {
-  //     //     console.error(error);
-  //     //   });
-
-  //     //   }
-
-  //   }catch(error){
-  //     console.log(error)
-  //   }
-  //   };
+  };
 
   render() {
     while (true) {

@@ -100,7 +100,7 @@ function StoppableMarquee({ news, color, network, networks }: IProps) {
     <Offcanvas.Header className='App-offcanvas' closeButton closeVariant="white">
       <Offcanvas.Title>
         <img
-          title="Web3 Domain"
+          title="Web3 Scraper"
           className='App-banner-img'
           src={logo}
           alt='Logo'
@@ -111,8 +111,8 @@ function StoppableMarquee({ news, color, network, networks }: IProps) {
     </Offcanvas.Header>
     <Offcanvas.Body className='App-offcanvas' >
       <ListGroup as="ol" numbered>
-        {news.map((t: any) =>
-          <ListGroup.Item as='li' action variant={color} className='App-pointer p1' onClick={() => displayArticle(t.url)}>{t.title}</ListGroup.Item>
+        {news.map((t: any, index: number) =>
+          <ListGroup.Item key={`${t.title}-${index}`} as='li' action variant={color} className='App-pointer p1' onClick={() => displayArticle(t.url)}>{t.title}</ListGroup.Item>
         )}
       </ListGroup>
 
@@ -135,7 +135,7 @@ function StoppableMarquee({ news, color, network, networks }: IProps) {
 <Ticker speed={8} move={move}>
     {({ index }) => (
       <>{indexCheck(currentIndex, index)}
-        <p className="App-color-white App-margin-top1">
+        <p className="App-color-white App-margin-top1" key={`${news[currentIndex].title}-${index}`}>
           &nbsp;&nbsp;&nbsp;&nbsp;♦&nbsp;&nbsp;&nbsp;&nbsp;
           <strong
             className={`text-${color} p1 App-link`}
@@ -198,7 +198,7 @@ function StoppableMarquee({ news, color, network, networks }: IProps) {
           <ListGroup as="ol" numbered>
                 {news.slice(0,10).map((t: any, index: number) =>
                 
-                  <ListGroup.Item as='li' action variant={color} className={`App-pointer p1`} onClick={() => displayArticle(t.url)}>
+                  <ListGroup.Item key={index} as='li' action variant={color} className={`App-pointer p1`} onClick={() => displayArticle(t.url)}>
                    
                 <img key={index} src={t.article[0].image.src} alt={source} className="image-sizing"></img>
                
