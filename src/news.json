@@ -1,0 +1,1338 @@
+[
+    {
+        "article": [
+            {
+                "title": "US Agencies Warn of Attempts by North Koreans to Get IT Jobs While Concealing Nationality",
+                "published": "May 16, 2022 at 7:04 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/U6QOFSDEUFFQLLVASHTOOVDEOI.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Three U.S. government agencies warned Monday that IT workers from North Korea were trying to secure jobs while posing as nationals from countries other than North Korea, often claiming they are based in the U.S. and not North Korean teleworkers.",
+                    "Read more: North Korean Hackers Stole $400M in 2021, Mostly in Ether"
+                ]
+            }
+        ],
+        "title": "US Agencies Warn of Attempts by North Koreans to Get IT Jobs While Concealing Nationality",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2022/05/16/us-agencies-warn-of-attempts-by-north-koreans-to-get-it-jobs-while-concealing-nationality/"
+    },
+    {
+        "article": [
+            {
+                "title": "Oasis Pro Raises $27M for Crypto Securities Trading Platform",
+                "published": "May 16, 2022 at 6:36 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/RU5CMGVMYFDCHN3YCMTISQ56MY.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Crypto-savvy broker-dealer Oasis Pro raised $27 million in its push to launch a digital securities alternative trading system (ATS) that decentralized finance (DeFi) platforms can plug into.",
+                    "LedgerPrime, Redwood Trust, John Wu’s Avalanche-focused Blizzard fund and other venture backers joined the Series A, CEO Pat LaVecchia, a former MakerDAO adviser, told CoinDesk.",
+                    "He described the strategic backers as “important” in Oasis’ bid to bridge crypto infrastructure with traditional capital markets.",
+                    "Oasis Pro Markets LLC, the ATS, wants to support everything from the issuance to secondary trading of all forms of digital securities, the company said. It also lets subscribers take the unusual step of paying in crypto for their digital securities, which are traditional investment assets (like shares in a company) that trade as tokens atop blockchain tech.",
+                    "Oasis is in the “early stages” of integrating its ATS directly with DeFi applications, LaVecchia told CoinDesk. He said automated market makers (AMMs), staking and yield farming can provide investor upside, and also help DeFi dollars gain access to securities.",
+                    "LaVecchia offered MakerDAO as an example.",
+                    "“The MakerDAO collateralization platform could fund an issuer with a collateralized note. Then if it meets proper regulatory security requirements, that note could trade on an ATS such as Oasis Pro. So DeFi funding into a security that can trade on an ATS for the issuer,” he said in a text.",
+                    "Such close integrations of DeFi and traditional finance (TradFi) require regulatory approval. LaVecchia said Oasis isn’t there yet.",
+                    "“I believe we are unique and we have the registration for digital cash (stablecoins, CBDCs, etc.) for digital securities transactions which to date we understand no other group has secured,” LaVecchia said."
+                ]
+            }
+        ],
+        "title": "Oasis Pro Raises $27M for Crypto Securities Trading Platform",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/oasis-pro-raises-27m-for-crypto-securities-trading-platform/"
+    },
+    {
+        "article": [
+            {
+                "title": "Kwon Proposes Forking Terra, Nixing UST Stablecoin in ‘Revival Plan 2’",
+                "published": "May 16, 2022 at 5:46 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/YNSXFPJELRH67NLK24GENFHXQM.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Terraform Labs CEO Do Kwon is out with a new “Revival Plan” to save the Terra ecosystem in the wake of last week’s stablecoin meltdown. His new slogan: “Terra is more than UST.”",
+                    "Calling the $40 billion implosion “a chance to rise up anew from the ashes,” Kwon said that “the ecosystem and its community are worth preserving” as he pitched the second take revival plan as a “living document.”",
+                    "In Monday’s post and an accompanying Twitter thread, Kwon proposed forking Terra into a new chain sans terraUSD (UST), the algorithmic stablecoin whose depegging crushed the entire ecosystem, the LUNA token included. Holders of LUNA on the “Classic” chain (the existing chain) would receive an airdrop of the new chain’s token under the plan. The old chain will continue to operate using the newly renamed luna classic (LUNC) token.",
+                    "Kwon said the new chain will be “fully community owned,” and Terraform Labs – Kwon’s company and the creators of Terra – will not be eligible to receive funds in the initial token disbursement.",
+                    "The plan will go into effect if it’s voted through by token holders. Kwon promised voting would begin on May 18. According to his proposed timeline, the new network launch could come as soon as May 27.",
+                    "In what may have marked the largest token collapse in crypto history, Terra’s $40 billion stablecoin juggernaut crashed last week. Terra’s UST stablecoin, which is supposed to stay “pegged” to the price of the dollar, plummeted below 10 cents. LUNA, which UST’s “algorithm” uses to help prop up the stablecoin’s dollar peg, dropped from $80 to below 1 cent amid the turmoil.",
+                    "In a tweet Monday, the Luna Foundation Guard, stewards of Terra’s vast bitcoin (BTC) reserves, explained that it sold off virtually all of its over-2 billion dollars worth of bitcoin in an ultimately failed attempt to defend UST’s peg. The announcement dashed any hope that Terra might be able to use the reserves to substantially compensate investors.",
+                    "Monday’s announcement from Kwon followed an original “Revival Plan” he proposed last week. The earlier plan, while light on specifics, also proposed handing ownership of Terra over to its community.",
+                    "Compared to the earlier plan, the newer one places a larger percentage of the forked chain’s initial token distribution (25% versus 10%) into a “Community Pool” responsible for funding future development. The new plan also gives 5% of the tokens to “essential developers” – a group not mentioned in the original proposal.",
+                    "The vast majority of new LUNA tokens would go to those who lost billions of dollars from last week’s collapse. Following a vesting schedule, smaller holders would get their full allocations faster than whales, or large holders, who might have to wait up to five years. Terraform Labs would get nothing under the deal.",
+                    "UPDATE (May 16, 18:25 UTC): Adds details throughout."
+                ]
+            }
+        ],
+        "title": "Kwon Proposes Forking Terra, Nixing UST Stablecoin in ‘Revival Plan 2’",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/kwon-proposes-forking-terra-in-revival-plan-2/"
+    },
+    {
+        "article": [
+            {
+                "title": "Bitcoin Struggles at $27K-$30K Support Zone; Resistance at $35K",
+                "published": "May 16, 2022 at 5:23 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/GIZ4P2RGNFGKXOUJZQJWABZINE.png",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Bitcoin (BTC) is stabilizing around the $30,000 price level after last week's sell-off. The cryptocurrency must remain above the $27,000-$30,000 support zone this week in order to generate a positive short-term momentum signal.",
+                    "BTC was trading around $29,300 at press time and is down by 3% over the past 24 hours.",
+                    "The relative strength index (RSI) on the daily chart is rising from oversold levels, which could keep buyers active at support. The RSI is also oversold on the weekly chart, although negative momentum could cap upside moves in price.",
+                    "Immediate resistance is seen at $33,000 and $35,000, which is where a breakdown in price occurred earlier this month. That suggests a large number of sell orders could limit a relief rally over the next two weeks.",
+                    "Further, the recent underperformance of alternative cryptos (altcoins) relative to bitcoin suggests a lower appetite for risk among crypto traders. Typically, alts decline by more than bitcoin during down markets because of their higher risk profile. The broader risk-off environment could keep BTC's short-term downtrend intact."
+                ]
+            }
+        ],
+        "title": "Bitcoin Struggles at $27K-$30K Support Zone; Resistance at $35K",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2022/05/16/bitcoin-struggles-at-27k-30k-support-zone-resistance-at-35k/"
+    },
+    {
+        "article": [
+            {
+                "title": "Crypto Funds Saw Year's Highest Inflows as Terra Crisis Crashed Markets",
+                "published": "May 16, 2022 at 4:57 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZAGV7BMT6FGILGZ3LQPPNBFUYA.png",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Digital-asset funds last week netted their highest inflows since late 2021 as investors bought into market panic caused by Terra's implosion.",
+                    "Crypto funds racked up $274 million in inflows in the week through May 13, when the terraUSD stablecoin (UST) – a cryptocurrency that's supposed to trade at a fixed price of $1 – dropped to a few cents, wiping out most of its $18 billion market capitalization and also making the blockchain's native token LUNA, once a top-10 cryptocurrency, virtually worthless.",
+                    "James Butterfill, head of research at CoinShares, said it was a \"strong signal that investors saw the recent UST stablecoin depeg and its associated broad sell-off as a buying opportunity.\"",
+                    "Bitcoin-focused funds were the clear winners, netting $299 million in inflows, the highest weekly inflow since the last week of October 2021. The data suggests that \"investors were flocking to the relative safety of the largest digital asset,\" Butterfill said.",
+                    "The flurry of investment came as bitcoin (BTC) dipped to as low as $25,892 on Thursday amid fears Luna Foundation Guard, the organization that was supposed to support UST in a crisis, might panic-sell its reserve of roughly 80,000 bitcoin. The price of bitcoin recovered most if its losses late last week to change hands around $30,000, a significant psychological level.",
+                    "Investors were polarized geographically because funds listed in North American saw $312 million of inflows, while $32 million flowed out of European funds.",
+                    "Purpose, the provider of the largest bitcoin exchange-traded fund listed in Canada, booked $284 million in inflows, dwarfing flows of competitors.",
+                    "Non-bitcoin funds struggled in the market sell-off, as some $26.7 million flowed out of funds managing ether (ETH), while vehicles focused on solana (SOL) recorded $5 million of outflows.",
+                    "Investors in blockchain-related stocks apparently panicked, with some $51 million leaving funds that manage blockchain and crypto-focused equities.",
+                    "In contrast, multi-asset funds, which manage more than one cryptocurrency, recorded $8.6 million in inflows, suggesting that some investors preferred a diversified approach."
+                ]
+            }
+        ],
+        "title": "Crypto Funds Saw Year's Highest Inflows as Terra Crisis Crashed Markets",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2022/05/16/crypto-funds-saw-years-highest-inflows-as-terra-crisis-crashed-markets/"
+    },
+    {
+        "article": [
+            {
+                "title": "India's Ad Body Hasn't Discussed Measure to Bar Celebrity Endorsement of Crypto",
+                "published": "May 16, 2022 at 4:27 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/6A6SWZIHARES7PO4UZ7O6J4UJA.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "The Advertising Standards Council of India (ASCI) said that it isn't discussing changing its guidelines on crypto advertisements, clearing the air on its position as an important stakeholder on a suggested ban on Indian celebrities endorsing crypto products.",
+                    "India's Securities and Exchange Board of India (SEBI) had suggested that no prominent public figures, including celebrities and famous athletes, should endorse crypto products and that an ad disclosure should also talk about possible violations of existing laws, according to a report by the Hindu Business Line.",
+                    "SEBI submitted a written report of its views to the Parliamentary Standing Committee on Finance, the newspaper's report said.",
+                    "\"This appears to be the view of SEBI in ongoing discussions within the government,\" said Manisha Kapoor, the ad council's CEO.",
+                    "\"ASCI has a specific guideline on celebrities. Plus, there is a clause in the crypto guidelines as well. We have always maintained that celebrities need to do their due diligence on the claims they endorse. And the Consumer Protection Act, too, lays down penalties for endorsers in case the [ad] they feature in is found misleading, and if they have done no due diligence. Endorsers may not have domain expertise, but they must take the effort to do due diligence as part of their responsibilities,\" Kapoor said.",
+                    "ASCI doesn't have the authority to ban celebrities from endorsing any products. That authority rests with the government alone. The group's guidelines, however, are considered a blueprint to follow to protect Indian consumers' interests in the interest of self-regulation in advertising.",
+                    "\"ASCI needs celebrities to be careful. Since banning or not is not in our preview, it’s not a stance ASCI can take or has taken,\" Kapoor said.",
+                    "While the government may be evaluating the possibility of imposing a ban, it may not be realistic and could potentially be challenged, a source familiar with the matter told CoinDesk.",
+                    "Late last year, Indian Prime Minister Narendra Modi led a meeting to consider regulations for cryptocurrencies. According to reports, a strong consensus was reached to stop \"attempts to mislead the youth through over-promising and non-transparent advertising.\"",
+                    "In February, ASCI released fresh guidelines to require crypto ads to carry disclaimers. The guidelines became effective on April 1.",
+                    "Under India's Consumer Protection Act, celebrities can be fined up to $13,000 for a false or misleading ad in the first instance and $65,000 for additional violations, with the possibility of a complete ban on endorsing any product for up to three years.",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "title": "India's Ad Body Hasn't Discussed Measure to Bar Celebrity Endorsement of Crypto",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2022/05/16/regulators-proposal-to-ban-indian-celebrities-from-endorsing-crypto-has-not-been-discussed-by-ad-policy-body/"
+    },
+    {
+        "article": [
+            {
+                "title": "Portugal Makes U-Turn on Cryptocurrency Tax",
+                "published": "May 16, 2022 at 4:24 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/34R3CWF4URGW5EI2AX7QAQWINQ.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Portuguese Minister of Finance Fernando Medina said cryptocurrencies will be subject to taxation in the near future, according to comments in the nation's parliament on Friday, as reported by Sapo."
+                ]
+            }
+        ],
+        "title": "Portugal Makes U-Turn on Cryptocurrency Tax",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2022/05/16/portugal-makes-u-turn-on-cryptocurrency-tax/"
+    },
+    {
+        "article": [
+            {
+                "title": "Ben Bernanke Says He Doesn't See Value in Bitcoin",
+                "published": "May 16, 2022 at 3:50 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/SKTOQAE56NDSJMMDL5GY7U7IDE.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Former U.S. Federal Reserve Chairman Ben Bernanke told CNBC on Monday that he doesn't believe bitcoin (BTC) works as money, a store of value or digital gold.",
+                    "\"If bitcoin were a substitute for fiat money, you could use bitcoin to go buy your groceries,\" he said. \"Nobody buys groceries with bitcoin because it’s too expensive and too inconvenient to do that.\" he added, noting how it would be impossible to price something like celery in bitcoin because there's too little stability in its value.",
+                    "Occasionally known as \"Helicopter Ben\" for suggesting in 2002 that the Fed could simply drop money from helicopters to ward off deflationary conditions – a comment the cypherpunks who laid the groundwork for Bitcoin were no doubt well aware of – Bernanke addressed the digital gold case for bitcoin. \"Gold has underlying use value,\" he argued. \"You can use it to fill cavities. The underlying use value of a bitcoin is to do ransomware or something like that.\"",
+                    "Turning to monetary policy, Bernanke, who was behind the original zero interest rate policy and quantitative easing, criticized the current Fed for not moving quickly enough to tighten monetary policy in the face of advancing inflation.",
+                    "Under even a \"benign scenario,\" Bernanke said he expects the economy to slow and unemployment to rise, even as inflation remains high. \"You could call it stagflation,\" he said.",
+                    ""
+                ]
+            }
+        ],
+        "title": "Ben Bernanke Says He Doesn't See Value in Bitcoin",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/ben-bernanke-not-seeing-the-value-in-bitcoin/"
+    },
+    {
+        "article": [
+            {
+                "title": "Celsius Network Files Draft S-1 Form to Take Its Mining Unit Public",
+                "published": "May 16, 2022 at 3:26 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/BDTTF3B47VBOFOKIZUTHB6YOPY.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Crypto lender Celsius Network said its mining unit has recently filed a confidential S-1 draft registration with the U.S. Securities and Exchange Commission (SEC).",
+                    "Read more: Crypto Lender Celsius Says Its CEL Token Faces ‘Regulatory Risks’"
+                ]
+            }
+        ],
+        "title": "Celsius Network Files Draft S-1 Form to Take Its Mining Unit Public",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/celsius-network-files-draft-s-1-form-to-take-its-mining-unit-public/"
+    },
+    {
+        "article": [
+            {
+                "title": "Mawson to Develop New Bitcoin Mining Site in Texas",
+                "published": "May 16, 2022 at 3:26 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/AAULSSOP6RCVHGGEE67E7V6D6Y.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Bitcoin miner Mawson Infrastructure (MIGI) said it plans to develop a new 120 megawatt (MW) facility in Texas and expects it to be fully operational by the fourth quarter."
+                ]
+            }
+        ],
+        "title": "Mawson to Develop New Bitcoin Mining Site in Texas",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/mawson-to-develop-new-bitcoin-mining-site-in-texas/"
+    },
+    {
+        "article": [
+            {
+                "title": "German Regulator Calls for New DeFi Laws",
+                "published": "May 16, 2022 at 3:21 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/ULEW7NIJ2VAZRN3MO55KOJR2QI.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Decentralized finance (DeFi) needs to be subject to new regulations, a senior German financial regulator said, citing the risk of hacks and fraud.",
+                    "The comments come as European Union regulators consider whether a flagship crypto law known as MiCA (Markets in Crypto Assets) should extend beyond currencies like bitcoin to cover other Web 3 innovations in the financial sector.",
+                    "“If DeFi is to be a genuine competitor to traditional financial markets, then this won’t work without specific new regulations,” said Birgit Rodolphe, an anti-money laundering official at German financial regulator BaFin.",
+                    "“Experience shows that DeFi is not quite as grassroots and selfless as fans of the space depict,” she said, citing abundant technical problems, hacks and dubious activity that cost hundreds of millions.",
+                    "“Ideally such provisions would of course be consistent EU-wide, to prevent a fragmented market and to boost Europe’s collective innovation potential,” she added, noting DeFi applications such as insurance, lending and securities.",
+                    "Germany recently topped a CoinCub survey of the world’s most crypto-friendly jurisdictions, in part because of its favorable tax treatment for the assets.",
+                    "The European Commission originally proposed the MiCA rule to regulate stablecoins, but lawmakers and governments are now wrangling over whether crypto rules should cover DeFi and non-fungible tokens (NFTs).",
+                    "To the relief of some in the sector, lawmakers appear to be moving away from imposing new DeFi regulations for now. Rather, they are asking the Commission to study the issue.",
+                    "But some in the industry have warned that regulation could generate uncertainty in a nascent industry. Responding to Rodolphe's comments, Sakhib Waseem, Chief Innovation Officer at Switzerland's Astra Protocol, also told CoinDesk it could undermine the whole philosophy of DeFi, as supervisors in the U.S, EU and globally will tend to look for entities that can take responsibility for finance projects.",
+                    "\"Unless we take action to meet with regulators ... to strike the balance, we could see centralization for all customers going forward and rapid action from an enforcement perspective which would stifle the growth of this innovative industry,\" Waseem said.",
+                    "Read more: NFT Issuers Could Have to Centralize and Register Under EU's MiCA Rules, France Warns",
+                    "UPDATE (May 16, 2022, 16:50 UTC): Adds last two paragraphs including comment from Astra."
+                ]
+            }
+        ],
+        "title": "German Regulator Calls for New DeFi Laws",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2022/05/16/german-regulator-calls-for-new-defi-laws/"
+    },
+    {
+        "article": [
+            {
+                "title": "US and EU Look to Blockchain to Track Greenhouse Gas Emissions",
+                "published": "May 16, 2022 at 3:16 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/6BRO3WT3HJFONHU7G7NRTSI3QI.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "The joint U.S.-EU Trade and Technology Council will collaborate on the research and development of technology to track carbon emissions, and will look at blockchain technology as a potential tool for measuring and utilizing lifecycle greenhouse gas (GHG) assessments.",
+                    "The Trade and Technology Council is a diplomatic forum established by the Biden administration in 2020 that serves to coordinate technology and trade policy between the U.S. and the European Union. The council’s second meeting was held in Paris on Monday, nine months after its first meeting in Pittsburgh.",
+                    "In a joint statement published Monday, the council reported that one of its working groups – the Climate and Clean Tech working group – would be collaborating on several initiatives related to the reduction of carbon emissions.",
+                    "One of the aims of the working group is to improve the methodology and process of tracking carbon emissions. The working group will examine the potential of several “emerging technologies,” including blockchain technology, to track emissions more reliably.",
+                    "Artificial intelligence, machine learning and “Internet of Things” (IOT) technologies will also be considered.",
+                    "According to the joint statement, the working group aims to begin the deployment of climate change-combating technologies, but what exactly those technologies will be is still unclear.",
+                    "UPDATE (15:29 UTC): Adds information about the Climate and Clean Tech working group’s plans."
+                ]
+            }
+        ],
+        "title": "US and EU Look to Blockchain to Track Greenhouse Gas Emissions",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/us-and-eu-look-to-blockchain-to-track-greenhouse-gas-emissions/"
+    },
+    {
+        "article": [
+            {
+                "title": "First Mover Americas: May Brings Showers Not Flowers as Bitcoin Languishes in Terra Aftermath",
+                "published": "May 16, 2022 at 2:18 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/XMP65TDNRRBJFPH6E4WN4KZGQQ.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Good morning, and welcome to First Mover. I’m Brad Keoun, here to take you through the latest in crypto markets, news and insights. (Lyllah Ledesma is off this week.)",
+                    "The month of May is typically one of the strongest times of the year for bitcoin's performance, with an average 18% return over the past nine years.",
+                    "But as crypto markets head into the back half of May, bitcoin is down 21% so far this month, currently around $30,000, and few analysts are predicting a quick rebound. CoinDesk's Shaurya Malwa reported Monday that bitcoin (BTC) has now fallen for a record seven straight weeks – a dismal stretch that's unparalleled in nearly a decade of pricing history on the largest cryptocurrency.",
+                    "Aside from the epic collapse last week of the Terra blockchain's LUNA token and its UST stablecoin (more on that below), there appears to be little relief ahead from the direction of traditional markets. The Federal Reserve shows little inclination to ease back from tightening monetary policy aggressively to tamp down the hottest inflation in four decades.",
+                    "Bitcoin has become increasingly correlated with U.S. technology stocks lately, so a hawkish Fed just puts more pressure on the cryptocurrency's price. (Economic data is expected this week on the state of U.S. manufacturing, retail sales and the housing market.)",
+                    "\"Adding to the downside is the bleak outlook for U.S. monetary policy, where no light at the end of the tunnel with rate hikes can be seen yet,\" FxPro market analyst Alex Kuptsikevich told Malwa in an email. \"We expect the bears not to loosen their grip in the coming weeks.\"",
+                    "U.S. stock futures were lower on Monday, along with European equity indexes.",
+                    "Goldman Sachs Senior Chairman Lloyd Blankfein over the weekend offered an example of just how bearish the sentiment has become, stating the U.S. economy was at a “very, very high risk.” Such an environment could cause a drawdown in U.S. equities, which may spread to bitcoin and cause further sell-offs in the coming weeks if the current correlation continues.",
+                    "\"Multiple headwinds have given market players almost nowhere to hide in any asset class,\" David Duong, head of research for Coinbase Institutional, wrote in a note on Friday. \"The downside scenarios are certainly still in play.\"",
+                    "Duong says that from a price-chart perspective, bitcoin is in a “no-man’s land” with the next major technical support at the 200-week moving price average around the $22,000-23,000 area. \"If things were to deteriorate further, the next line of support would come at around $20,000, which was the all-time high in the previous 2017/2018 cycle,\" according to Duong.",
+                    "The debacle that was last week's destruction of more than $40 billion of value from the Terra collapse has left crypto traders rattled. The Crypto Fear & Greed Index from the website Alternative.me is registering \"extreme fear.\" BitMEX founder Arthur Hayes described the Terra episode as \"Luna Brothers Inc.,\" recalling the swift collapse of Lehman Brothers in 2008 that nearly brought down the global financial system. \"With the so-called death spiral now halted, investors will be keen to see if tokens can maintain their price levels for the next few days at least,\" Simon Peters, a market analyst for the crypto trading platform eToro, wrote Monday.",
+                    "That said, there may be more signs of contagion from the Terra fallout. Deus Finance's stablecoin dei (DEI) lost its peg with U.S. dollar and fell to as low as 54 cents in European hours on Monday, data shows. And the Wall Street firm Morgan Stanley wrote in a report last week that high-flying non-fungible tokens (NFTs) might be due for a reevaluation, arguing that the most speculative and leveraged areas of crypto markets are now in focus.",
+                    "To be sure, the biggest hope for the bulls might come from reports of continuing interest in cryptocurrencies from Wall Street and institutional investors. Elwood Technologies, the cryptocurrency company backed by billionaire fund manager Alan Howard, raised $70 million in a funding round co-led by Goldman Sachs and Dawn Capital, CoinDesk's Ian Allison reported Monday.",
+                    "\"Retail investors are no longer alone in seeing the value of the sector, and in the background long-term investor plans are still being built,\" Peters wrote.",
+                    "By Sam Kessler",
+                    "The Luna Foundation Guard (LFG), official stewards of Terra’s bitcoin reserves, released a statement on Monday documenting how it disbursed millions of dollars worth of crypto in its failed attempt to maintain the peg of stablecoin terraUSD (UST).",
+                    "In the statement, LFG notes that its BTC reserves have depleted almost entirely – from around 80,000 BTC to about 300. The remaining assets, which are mostly comprised of the crashed UST and LUNA tokens, will apparently be used to compensate investors.",
+                    "Monday’s statement from LFG comes amid criticism that Terra’s reserve funds – which were supposed to belong to the “decentralized” Terra community – were handled with a lack of transparency by Terra’s centralized leaders and investors.",
+                    "It also comes after leading figures in the blockchain space, including Ethereum Founder Vitalik Buterin, have called for Terra to compensate smaller holders of UST and LUNA before its largest investors.",
+                    "\"There seems to be little hope for those hoping that some of the reserves could be used to compensate users of the stablecoin – since so little of it remains,\" Tom Robinson, chief scientist and co-founder at the blockchain analysis firm Elliptic, wrote in an email. \"Of course we will wait to see whether LFG can provide proof to back up their statements.\"",
+                    "Read More: Luna Foundation Guard Left With 313 Bitcoin After UST Crash",
+                    "Today’s newsletter was edited by Brad Keoun and produced by Parikshit Mishra and Stephen Alpher."
+                ]
+            }
+        ],
+        "title": "First Mover Americas: May Brings Showers Not Flowers as Bitcoin Languishes in Terra Aftermath",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/first-mover-americas-may-brings-showers-not-flowers-as-bitcoin-languishes-in-terra-aftermath/"
+    },
+    {
+        "article": [
+            {
+                "title": "Bitcoin Miner Bitfarms Lowers Hashrate Outlook to 6 EH/s This Year",
+                "published": "May 16, 2022 at 2:05 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/PRMIIODHMFHRHPMXACE2OZDRGE.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Canadian bitcoin miner Bitfarms (BITF) lowered its 2022 hashrate guidance to 6 exashash per second (EH/s) from 7.2 EH/s previously, citing adjustments to its ongoing expansion projects."
+                ]
+            }
+        ],
+        "title": "Bitcoin Miner Bitfarms Lowers Hashrate Outlook to 6 EH/s This Year",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/bitcoin-miner-bitfarms-lowers-hashrate-outlook-to-6-ehs-this-year/"
+    },
+    {
+        "article": [
+            {
+                "title": "Voyager Digital Raises $60M in Private Placement Led by Alameda",
+                "published": "May 16, 2022 at 1:34 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/BPYKUF52BRBMJHZEJM4YRNMIUA.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Crypto trading platform Voyager Digital (VOYG) raised $60 million in a private placement offering at $2.34 a share led by Alameda Research.",
+                    "The placement also included participation from Galaxy Digital, Blockdaemon and Digital Currency Group, the parent company of CoinDesk. Investment bank BTIG is the sole agent and bookrunner.",
+                    "Voyager said the company will have liquidity of more than $225 million, about $175 million in cash and another $50 million in crypto, when the offering is fully completed. It expects to use the proceeds for general corporate purposes.",
+                    "The company also reported revenue of $102.7 million in the fiscal third quarter ended March 31, up 70% from the year-earlier period. Still, it sank to an operating loss of $43.0 million compared with income of $29.8 million the year before.",
+                    "\"With the recent changes to our rewards model and actively addressing our cost structure to ensure an efficient use of capital, we are working toward a goal of returning to positive operating income, after adding back stock-based compensation, in early calendar 2023,\" the company said in a statement.",
+                    "Total assets on its platform fell to $5.8 billion from $6.0 billion at Dec. 31, 2021.",
+                    "The private placement \"points to a challenging operating environment,\" Chris Allen, a research analyst with Compass Point, told clients in a note Monday. Allen maintained a buy rating and a C$14 (US$10.83) price target on shares.",
+                    "Voyager's Toronto-listed shares, which closed at C$4 on Friday, fell as much as 13% at Monday's open."
+                ]
+            }
+        ],
+        "title": "Voyager Digital Raises $60M in Private Placement Led by Alameda",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/voyager-digital-raises-60m-in-private-placement-led-by-alameda/"
+    },
+    {
+        "article": [
+            {
+                "title": "Fantom Stablecoin DEI Becomes Latest to Lose Dollar Peg",
+                "published": "May 16, 2022 at 12:18 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/6PN6M3ZWZBFBXO6OGEQICS5XWY.png",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Deus Finance's stablecoin dei (DEI) lost its peg with U.S. dollar and fell to as low as 54 cents in European hours on Monday, data shows. The drop came amid several algorithmic stablecoins losing their peg last week.",
+                    "Algorithmic stablecoins are supposed to be automatically pegged to the price of another currency. These are unlike centralized alternatives like tether (USDT) or USD coin (USDC), which are backed by actual dollars or equivalent assets stored in a bank.",
+                    "DEI, valued at over $62 million by market capitalization, operates within Deus, a Fantom-based decentralized finance (DeFi) project. It comprises 10% DEUS tokens and 90% in other stablecoins.",
+                    "The collateral ratio of DEI is constantly monitored and adjusted via arbitrage bots, which continually trade $1 worth of the underlying tokens for 1 DEI, or vice versa, to ensure a peg.",
+                    "DEI – which traded 3 cents below its peg on Sunday – lost 20 cents on Sunday night as traders likely exchanged DEI tokens for USDC amid a small amount of liquidity on decentralized exchanges, which caused price fluctuations. Lower prices led to more traders selling DEI for other tokens, presumably to protect against risks, which further contributed to a price drop.",
+                    "Separately, Deus developers had earlier paused a redemption mechanism for DEI – which allows investors to redeem DEI for other tokens – that may have contributed to the decline.",
+                    "As such, developers on Deus’ Telegram channel explained the lower liquidity was partly due to traders exiting stablecoin pools after UST’s collapse last week and a lower-than-usual backing for DEI tokens after a $13.4 million exploit on the Deus protocol in late April.",
+                    "Meanwhile, DEI has regained the 72 cents level at writing time, with Deus developers stating a repegging plan using debt tokens was in place that would prevent a collapse of the peg in the future.",
+                    "The slump follows Terra ecosystem project UST costing its investors billions of dollars as it lost its peg and fell to as low as 22 cents. Associated token luna (LUNA) dropped to pennies from trading over $100 earlier this month, losing as much as 99.7% of its value in under a week.",
+                    "Panic around UST last week led to a similar sell-off in other stablecoins, such as Waves’ stablecoin USDN which lost 15%."
+                ]
+            }
+        ],
+        "title": "Fantom Stablecoin DEI Becomes Latest to Lose Dollar Peg",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2022/05/16/fantom-stablecoin-dei-becomes-latest-to-lose-dollar-peg/"
+    },
+    {
+        "article": [
+            {
+                "title": "Japan’s Nomura Said to Launch Crypto Unit With DeFi and NFTs on Menu: Report",
+                "published": "May 16, 2022 at 12:00 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/RVHH7NC42FBFHCME3WASHOXSGE.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Japanese investment bank Nomura is launching a subsidiary to give institutions access to digital assets, according to a report in the Financial Times.",
+                    "The new unit will have a staff of 100 by the end of 2023, according to the report, and will offer exposure to cryptocurrency, decentralized finance (DeFi) and non-fungible tokens (NFTs).",
+                    "The bank declined CoinDesk's request for a comment.",
+                    "Nomura began trading bitcoin futures and options last week on the CME with Cumberland DRW, joining rivals such as Goldman Sachs (GS) and JPMorgan (JPM) in giving their clients access to crypto markets.",
+                    "Nomura was one of the first banks to explore custody of crypto assets, joining the Komainu custody joint venture alongside fund manager CoinShares and custody specialist Ledger, in June 2020.",
+                    "The Nomura Research Institute, an economic consulting arm of the bank, launched a crypto-asset index tracking the Japanese cryptocurrency market in 2020."
+                ]
+            }
+        ],
+        "title": "Japan’s Nomura Said to Launch Crypto Unit With DeFi and NFTs on Menu: Report",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/japans-nomura-said-to-launch-crypto-unit-with-defi-and-nfts-on-menu-report/"
+    },
+    {
+        "article": [
+            {
+                "title": "Morgan Stanley Says NFTs Next to Watch After UST Collapse",
+                "published": "May 16, 2022 at 11:41 a.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/WKGL53Q7GRETHBWBK2ZNPK3OX4.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Bitcoin (BTC) has fallen 40% since April, and this is no longer due to its correlation with equity markets, Morgan Stanley (MS) said in a research report dated May 12.",
+                    "Read more: First Mover Asia: Singapore’s Regulators Will Be Eyeing Local Crypto Companies After Terra Collapse; Bitcoin Rebounds"
+                ]
+            }
+        ],
+        "title": "Morgan Stanley Says NFTs Next to Watch After UST Collapse",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/morgan-stanley-says-nfts-next-to-watch-after-ust-collapse/"
+    },
+    {
+        "article": [
+            {
+                "title": "Bitcoin Sees 7 Straight Weeks of Losses for First Time",
+                "published": "May 16, 2022 at 11:14 a.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/54L47UALPRH3DORJNO6DFEG2OQ.png",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Bitcoin (BTC) has had seven straight weeks of losses for the time first in its history amid a downturn in broader markets, stricter crypto regulations, waning retail interest and systemic risks in the crypto sector, data shows.",
+                    "Bitcoin neared the $47,000 level in mid-March in a run that lasted a couple of weeks after a fall to $37,000 from November’s lifetime highs of nearly $69,000. The asset has since slid every week and could fall to as low as $20,000 if current market conditions continue.",
+                    "Bitcoin, the world’s largest cryptocurrency by market capitalization, has been long positioned as a hedge against inflation, or an investment that is supposed to protect against the decreased purchasing power of currencies or other assets.",
+                    "That has failed to happen so far, however, as bitcoin is highly correlated with global markets and has traded similar to a risky technology stocks in the past few months. Meanwhile, some analysts say investors are selling bitcoin as it advances.",
+                    "\"In our view, the trend of selling cryptocurrency on upside movements remains. Adding to the downside is the bleak outlook for U.S. monetary policy, where no light at the end of the tunnel with rate hikes can be seen yet,\" FxPro market analyst Alex Kuptsikevich wrote in an email.",
+                    "\"We expect the bears not to loosen their grip in the coming weeks. In our opinion, a turnaround in sentiment may not come until the approach of the 2018 highs area near $19,600,\" Kuptsikevich added.",
+                    "Bitcoin fell to as low as $24,000 last week as stablecoin tether (USDT) briefly lost its peg to the U.S. dollar. Sentiment among investors was already reeling from the implosion of Terra’s LUNA and its stablecoin terraUSD (UST).",
+                    "Inflation concerns have contributed to bitcoin’s fall in the past several weeks. Earlier this month, the U.S. Federal Reserve hiked rates by the largest amount since 2000 as it seeks to tighten monetary policy following $2 trillion in stimulus in the past few years.",
+                    "In April, Goldman Sachs analysts said in a note that the Fed's aggressive measures to control inflation could result in a recession. The investment bank put the odds of an economic contraction – a phase of the business cycle in which the economy as a whole is in decline – at about 35% over the next two years.",
+                    "Former Goldman Sachs CEO Lloyd Blankfein reiterated that sentiment over the weekend, stating the U.S. economy was at a “very, very high risk.” Such an environment could cause a drawdown in U.S. equities, which may spread to bitcoin and cause further sell-offs in the coming weeks if the current correlation continues.",
+                    "The risks of a sell-off could already be starting to show. Last week, the $18.3 billion Grayscale Bitcoin Trust (GBTC), the world's largest bitcoin fund, saw its market discount widen to an all-time low of 30.79%, as reported. The discount could be taken as a bearish indicator because it might mean a waning interest in bitcoin among traders. Grayscale and CoinDesk are both owned by Digital Currency Group.",
+                    "GBTC is one of the only ways for traders in the U.S. to gain exposure to the price movements of bitcoin without the need to purchase the actual cryptocurrency.",
+                    "Bitcoin was hovering under the pivotal support level of $30,000 at the time of this writing, CoinGecko data shows."
+                ]
+            }
+        ],
+        "title": "Bitcoin Sees 7 Straight Weeks of Losses for First Time",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2022/05/16/bitcoin-sees-seven-straight-weeks-of-losses-for-the-first-time/"
+    },
+    {
+        "article": [
+            {
+                "title": "Crypto Hedge Fund Elwood Closes $70M Funding Led by Goldman Sachs and Dawn Capital",
+                "published": "May 16, 2022 at 11:01 a.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/FP7D6ECJO5AZBO33IH7BHPJX3I.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Elwood Technologies, the cryptocurrency company backed by billionaire fund manager Alan Howard, raised $70 million in a funding round co-led by Goldman Sachs (GS) and Dawn Capital.",
+                    "The Series A round also included U.K. bank Barclays (BCS) and Commerzbank’s CommerzVentures, as well as Galaxy Digital Ventures, BlockFi Ventures, Flow Traders, Chimera Ventures and Digital Currency Group (CoinDesk’s parent company).",
+                    "London-based Elwood launched its first blockchain and crypto-related products in early 2019. Of the large Wall Street banks, Goldman is probably leading the way in crypto; Barclays, which became a thought leader in early permissioned blockchain experimentation, is an interesting addition to Elwood’s public crypto trading stable of backers.",
+                    "“The rich mix of investors participating in this raise reaffirms the movement of financial institutions working closely with their native digital asset technology providers,” said Elwood CEO James Stickland in a statement.",
+                    "Mathew McDermott, global head of digital assets at Goldman Sachs, added in a statement: “As institutional demand for cryptocurrency rises, we have been actively broadening our market presence and capabilities to cater for client demand. Our investment in Elwood demonstrates our continued commitment to digital assets and we look forward to partnering to expand our capabilities.”"
+                ]
+            }
+        ],
+        "title": "Crypto Hedge Fund Elwood Closes $70M Funding Led by Goldman Sachs and Dawn Capital",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/crypto-hedge-fund-elwood-closes-70m-funding-led-by-goldman-sachs-and-dawn-capital/"
+    },
+    {
+        "article": [
+            {
+                "title": "Australian Tax Office Warns Crypto Investors on Capital Gains Obligations",
+                "published": "May 16, 2022 at 11:00 a.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/LQUMLBJ7ZFHVNNYWCP3CXRRFWI.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "The Australian Taxation Office (ATO) has published a warning to cryptocurrency investors, reminding them that capital gains and losses must be reported every time a digital asset, which includes non-fungible tokens (NFT), is sold."
+                ]
+            }
+        ],
+        "title": "Australian Tax Office Warns Crypto Investors on Capital Gains Obligations",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/australian-tax-office-warns-crypto-investors-on-capital-gains-obligations/"
+    },
+    {
+        "article": [
+            {
+                "title": "ECB’s Panetta: Digital Euro Could Come Out Within 4 Years",
+                "published": "May 16, 2022 at 10:29 a.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/TX5OI5XURJEL5IHLWBABTK2J3A.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "A digital euro could be issued by the European Union (EU) within four years, a senior official from the European Central Bank (ECB) said Monday, with peer-to-peer payments potentially among the first uses.",
+                    "The timeline for the central bank digital currency (CBDC) has been pushed back and forward because of concerns over Russia’s war in Ukraine and the rise of private stablecoins like Facebook’s now-abandoned libra.",
+                    "“The idea would be that, let’s say, four years from now, we will be ideally ready to issue the digital euro,” Fabio Panetta, a member of the European Central Bank’s executive board, said at an event at the National College of Ireland. “It’s a very complex project, never done before … I’m a bit optimistic that in four years’ time we will be prepared.”",
+                    "Peer-to-peer (P2P) payments, allowing transactions among friends, could be the first testing ground for the new technology before it spreads to other areas like payments in stores or online, Panetta suggested.",
+                    "“A P2P payment solution that covers a broad set of users across the entire euro area could provide fertile ground for the adoption of a digital euro,” he said, citing research that showed the application would have widest use early on.",
+                    "Read more: ECB's Panetta Blasts Crypto as ‘Ponzi Scheme’ Fueled by Greed",
+                    "In October, the ECB started a two-year investigation phase to look at issues like what use cases to prioritize, although the ECB hasn't decided yet on whether to issue a digital euro in the first place. Panetta has previously said that a realization phase due to start late next year could last three years.",
+                    "In March, ECB President Christine Lagarde said the sanctions following the war in Ukraine offered a reason to speed up the plans, but other EU officials Monday suggested they were taking their foot off the gas pedal.",
+                    "“There was some time back a sense of more urgency, because of the concerns of what might happen from private providers,” Mairead McGuinness, the EU’s financial-services commissioner, said at the same event. “Nobody is rushing … we need to move swiftly but not hastily.”",
+                    "The idea of the EU issuing its own CBDC first emerged after an industry consortium led by Facebook proposed its own crypto currency, libra, subsequently renamed diem before being abandoned.",
+                    "But recent collapses in the private crypto market may add yet one more reason to pursue the project, Panetta said.",
+                    "Stablecoins don’t have the regulatory safety net offered to banks and “are therefore vulnerable to runs,” he said, citing the crash last week of terraUSD (UST), which is supported by the nonprofit Luna Foundation Guard.",
+                    "“Just last week the world’s biggest stablecoin temporarily lost its peg to the dollar,” he added, referring to the Tether asset (USDT).",
+                    "Read more: 9 Out of 10 Central Banks Exploring Digital Currency, BIS Says"
+                ]
+            }
+        ],
+        "title": "ECB’s Panetta: Digital Euro Could Come Out Within 4 Years",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2022/05/16/digital-euro-could-come-out-within-four-years-ecbs-panetta-says/"
+    },
+    {
+        "article": [
+            {
+                "title": "LFG Reserves Dwindle to Just 313 Bitcoins From 80K After UST Crash",
+                "published": "May 16, 2022 at 9:59 a.m. UTC",
+                "paragraph": [
+                    "The Luna Foundation Guard (LFG), official stewards of Terra’s bitcoin (BTC) reserves, released a statement on Monday documenting how it disbursed millions of dollars' worth of crypto in its failed attempt to maintain the peg of stablecoin terraUSD (UST).",
+                    "In the statement, LFG notes that it has almost entirely depleted its BTC reserves from around 80,000 bitcoins to 313. The remaining assets, which mostly comprise the crashed UST and LUNA tokens, will apparently be used to compensate investors.",
+                    "In a subsequent tweet, LFG denied accusations that it bailed out whales with the bitcoin trove: “there was never any deal for ‘insiders’ to exit. LFG funds were merely used squarely within its mandate to help protect UST peg.”",
+                    "In one of the most calamitous events in crypto memory, the $40 billion Terra ecosystem collapsed last week when the UST stablecoin, which is supposed to be worth $1, dropped to below 20 cents. The LUNA token, which is designed to serve as a sort of shock absorber for UST’s “algorithmic” dollar-pegging mechanism, crashed from $80 to below 2 cents.",
+                    "In a tweet on Monday, LFG said it sold off most of the BTC in its reserves for UST as Terra’s ecosystem was beginning to collapse early last week.",
+                    "LFG said it transferred more than 50,000 bitcoins “to trade with a counterparty” on May 8, as the UST price was originally starting to slump.",
+                    "It said the funds were used for “directly executing on-chain swaps and transferring $BTC to a counterparty to enable them to enter trades with the Foundation in large size and on short notice.”",
+                    "On May 12, LFG said another 30,000 BTC from its reserves were sold off by Terraform Labs, the original company behind Terra, “in a last ditch effort to defend the peg.”",
+                    "That, however, failed to restore UST’s peg to the U.S. dollar as traders continued to sell the token for other stablecoins, leading to an exodus of capital away from UST and thus lower prices.",
+                    "LFG confirmed the remainder of its reserves, which once totaled over $3 billion, have sunk almost completely as a result of the unsuccessful effort to defend UST.",
+                    "LFG says these funds will be used “to compensate remaining users of UST, smallest holders first.”",
+                    "Monday’s statement from LFG comes amid criticism that Terra’s reserve funds, which were supposed to belong to the “decentralized” Terra community, were handled with a lack of transparency by Terra’s centralized leaders and investors.",
+                    "It also comes after leading figures in the blockchain sector, including Ethereum co-founder Vitalik Buterin, have called for Terra to compensate smaller holders of UST and LUNA before its largest investors.",
+                    "UST’s price plummeted further in response to Monday’s announcement –  from 15 cents to 7 cents.",
+                    "Meanwhile, only about $80 million worth of other cryptocurrencies – apart from UST and LUNA – remain in LFG’s reserves at current prices, a tiny figure compared with its $10 billion target reserve at the start of this month.",
+                    "UPDATE (May 16, 13:29 UTC): Updates headline, adds additional details in eight and 14th paragraph.",
+                    "UPDATE (May 16, 15:10 UTC): Adds third paragraph regarding insider allegations.",
+                    ""
+                ]
+            }
+        ],
+        "title": "LFG Reserves Dwindle to Just 313 Bitcoins From 80K After UST Crash",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/luna-foundation-guard-left-with-313-bitcoin-after-ust-crash/"
+    },
+    {
+        "article": [
+            {
+                "title": "Grayscale Investments to List Its First ETF in Europe",
+                "published": "May 16, 2022 at 8:38 a.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/DGYOGGAJ5BDKPJGIKXHE6HSJDY.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Grayscale Investments plans to list its first exchange-traded fund (ETF) in Europe, offering investors exposure to companies in finance, technology and digital assets.",
+                    "The Grayscale Future of Finance UCITS ETF (GFOF) will list on the London Stock Exchange (LSE), the Deutsche Börse and Borsa Italiana and will be available to investors across Europe. Trading in the ETF is set to start Tuesday, a company representative said.",
+                    "The ETF will track the Bloomberg Grayscale Future of Finance Index, which was launched in January to track the performance of financial services and technology companies in the digital economy. They include PayPal (PYPL), Coinbase Global (COIN), Block (SQ), Robinhood Markets (HOOD) and Argo Blockchain (ARB).",
+                    "CEO Michael Sonnenshein said in April that the digital asset manager wanted to enter the European crypto fund market, where there are already over 70 exchange-traded products with a total of $7 billion in crypto and related assets. The new company-focused ETF will join incumbents such as the VanEck Vectors Digital Assets Equity ETF (DAPP) and Melanion Capital's BTC Equities Universe ETF (BTC).",
+                    "A similar ETF, which has been listed in the U.S. since February on the NYSE Arca, was designed to broaden Grayscale's offering away from direct investment in digital assets, offering investors exposure to companies whose performance is indirectly linked to the crypto market.",
+                    "Grayscale is currently seeking to convert its Grayscale Bitcoin Trust (GBTC) into a spot bitcoin ETF in the U.S. Markets regulator the Securities and Exchange Commission (SEC) has yet to approve such a product despite having received dozens of applications in recent years.",
+                    "Grayscale is a subsidiary of Digital Currency Group, which is also the parent company of CoinDesk.",
+                    "Read more: Crypto Exchange-Traded Products Are Blossoming in Europe"
+                ]
+            }
+        ],
+        "title": "Grayscale Investments to List Its First ETF in Europe",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/16/grayscale-investments-to-list-its-first-etf-in-europe/"
+    },
+    {
+        "article": [
+            {
+                "title": "Indian Central Bank Says Cryptos Could Lead to ‘Dollarization’ of Economy: Report",
+                "published": "May 16, 2022 at 6:27 a.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/H4IN7VVZHZDVLGCZWVWFIEBSSY.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Cryptocurrencies can lead to the \"dollarization\" of a part of the economy, which could be against the country's sovereign interest, top officials of the Reserve Bank of India, the country's central bank, told a parliamentary committee on finance, according to a Press Trust of India report.",
+                    "UPDATE (May 16, 6:45 UTC): Adds source quote in the fifth bullet.",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "title": "Indian Central Bank Says Cryptos Could Lead to ‘Dollarization’ of Economy: Report",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2022/05/16/indian-central-bank-says-cryptos-could-lead-to-dollarization-of-economy-report/"
+    },
+    {
+        "article": [
+            {
+                "title": "Nigeria’s SEC Affirms All Digital Assets Are Securities in New Rulebook",
+                "published": "May 16, 2022 at 4:21 a.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/EFTGCD27KNCX5L3ESIPAD3PKHE.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "A digital asset is a token that represents assets such as a debt or equity claim on the issuer, and thus by default is under the purview of the Securities and Exchange Commission of Nigeria, the regulator said in a new rulebook published over the weekend."
+                ]
+            }
+        ],
+        "title": "Nigeria’s SEC Affirms All Digital Assets Are Securities in New Rulebook",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2022/05/16/nigerias-sec-affirms-all-digital-assets-are-securities-in-new-rulebook/"
+    },
+    {
+        "article": [
+            {
+                "title": "First Mover Asia: Singapore’s Regulators Will Be Eyeing Local Crypto Companies After Terra Collapse; Bitcoin Rebounds",
+                "published": "May 15, 2022 at 10:59 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/VAU5CXGCCNFGBJNM2Z6NT7WTSY.png",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Good morning. Here’s what’s happening:",
+                    "Prices: Bitcoin mounts a small Sunday comeback.",
+                    "Insights: Crypto companies may face more scrutiny in Singapore.",
+                    "Technician's take: BTC is on track for its first consecutive seven-week decline.",
+                    "Catch the latest episodes of CoinDesk TV for insightful interviews with crypto industry leaders and analysis. And sign up for First Mover, our daily newsletter putting the latest moves in crypto markets in context.",
+                    "Bitcoin (BTC): $31,122 +3.5%",
+                    "Ether (ETH): $2,139 +4.5%",
+                    "Bitcoin rebounds",
+                    "As comebacks go, it wasn't much. But Bitcoin will take what it can get at this point.",
+                    "So will other cryptos hammered last week by the toxic mix of geopolitical unrest, rising interest rates, recessionary fears and the implosion of the terraUSD (UST) stablecoin and the LUNA token that backs it.",
+                    "Bitcoin was recently trading above $31,000, up about 3.5% over the past 24 hours and roughly 16% from the $26,600 depths it sank to mid-Friday. \"Bitcoin did indeed face downward pressure that saw it losing the $30K support, but it did not fall below the 25K level,\" Joe DiPasquale, the CEO of crypto fund manager BitBull Capital, wrote to CoinDesk.",
+                    "Ether, the second largest crypto by market cap, was recently up similarly and changing hands at about $2,100 after earlier in the week dropping below $1,800 for the first time in two months. Most major altcoins spent Sunday well in the green, recovering some of the ground they lost last week as the crypto market cap tumbled by $300 billion. SOL rose more than 10% at one point, although its $55 price was down from over $70 at the start of the week.",
+                    "ADA, AVAX and AXS posted increases ranging between 9% and 11%. BCH was among the few losers earlier Sunday.",
+                    "Crypto gains dovetailed with equity markets that finally enjoyed some good news Friday after six straight days of declines. The tech-focused Nasdaq closed up 3.8%, while the S&P 500 and Dow Jones Industrial average rose 2.3% and 1.4%, respectively. Still, the week's economic bad news is unlikely to shake investors from their risk-averse positions of recent months.",
+                    "On Wednesday, the U.S. Commerce Department announced that consumer prices had risen 8.3% in April, slightly better than the previous month but nevertheless a sign that inflation driving a range of goods and services would linger. Even the once torrid housing market has felt shockwaves as mortgage rates have risen over 5.3%, increasing the difficulty for would-be homeowners to finance their purchases. Investors have been concerned that U.S. central bank hawkishness was inadequate to tame rising prices without throwing the economy into recession.",
+                    "In an email Friday, Hargreaves Lansdown Senior Investment and Markets Analyst Susannah Streeter highlighted \"investor worries over inflation, supply concerns and the UST fall, which sent LUNA tumbling to a fraction of a cent. \"For now the crypto wild west is taking a breather after reeling from the crash brought on by the collapse of a so-called stablecoin,\" Streeter wrote, adding: \"This latest plunge in the wheel of fortune demonstrates that speculating in cryptocurrencies is extremely high risk and is not suitable for investors who don’t have money they can afford to lose.’’",
+                    "BitBull's DiPasquale noted that \"a near-term bounce\" in Bitcoin \"is still intact but a proper reversal needs more buying activity.\" He called last week's low \"a decent buying opportunity for long-term exposure,\" but also warned that \"the coming month may bring additional volatility as more concrete steps by the FED to fight inflation come to the fore.\"",
+                    "S&P 500: 4,023 +2.3%",
+                    "DJIA: 32,196 +1.4%",
+                    "Nasdaq: 11,805 +3.8%",
+                    "Gold: $1,811 -0.5%",
+                    "Singapore will be eyeing locally registered crypto firms",
+                    "As the week closed in Asia, LUNA and UST were de-listed from most exchanges as the Terra blockchain was halted for nine hours, restarted and then halted again as the market seemed to reject a recovery plan.",
+                    "The question on many people’s minds is, how will token holders be made whole? That’s where things get complicated.",
+                    "Terraform Labs, the Singapore-registered company behind the Terra protocol, doesn’t have a permanent office. The Singapore address it provides is a registration agent, home to hundreds of Singaporean companies. Its offices are rented co-working spaces worldwide; like many Web 3 startups, there’s no formal headquarters.",
+                    "The only assets the company has are from the Luna Foundation Guard. This non-profit organization, also registered in Singapore and overseen by Do Kwon, controls the wallets that were to support the UST peg during times of extreme volatility. The majority of these wallets are now empty, with the only thing of value remaining being the approximately $69 million in avalanche token (AVAX).",
+                    "Singapore’s regulators are aware of the trend of crypto companies using a Singaporean entity to conduct business abroad with no material ties to the country. In April, its Parliament passed a bill into law that included provisions that require domestically registered crypto companies that do business abroad to be licensed primarily for anti-money laundering reasons, but leaves the door open in the future for this to expand.",
+                    "As the year began, Terra’s LUNA token had a market cap of $33 billion. Its UST stablecoin had a market cap of $10 billion. Now, both have a virtual value of $0.",
+                    "Should there be a legal case made against the companies behind the protocol by the token holders, what sort of assets could be seized? What jurisdiction does the Singapore government have over Do Kwon and co-founder Daniel Shin? On company filings with local authorities, both provide addresses in Singapore but it's unclear if they reside there full time, as Kwon maintains a residence in South Korea, too.",
+                    "With its lawsuit against the Securities and Exchange Commission (SEC), Terraform Labs and Do Kwon asserted that American regulators don’t have jurisdiction over Kwon, a Korean residing in Singapore. They have no ties to the U.S., so how can they be targeted by regulators? they argued. But they might find themselves dealing with Singapore’s justice system, and while the country has a favorable securities framework compared to the U.S. its courts are known to be otherwise strict.",
+                    "Should the Singaporean government feel like the nation’s reputation is at stake because of a registered company with few material ties that blew up tens of billions of dollars, it will come after them hard and may start the process of closing the door entirely on crypto firms that use a Singaporean shell but do business abroad.",
+                    "If that happens, will Terraform and Kwon also claim the “no jurisdiction” route?",
+                    "Bitcoin Oversold, Resistance at $33K-$35K",
+                    "Bitcoin (BTC) bounced toward $30,000 on Friday as buyers reacted to oversold conditions. Still, any upside appears to be limited, and the cryptocurrency could face resistance at $33,000 and $35,000.",
+                    "Momentum signals remain negative on the daily, weekly and monthly charts, which typically leads to a period of low or negative returns. Further, BTC is on track for its first-ever consecutive seven-week decline, according to Coinbase (COIN) price data provided by TradingView, dating back to 2014. That's also a sign of negative price momentum.",
+                    "For now, BTC is approaching lower support near its 200-week moving average, which is now at $21,800. Immediate support is between $27,000 and $30,000, which could stabilize price action over the next few days.",
+                    "Also, on Thursday, short-term countertrend signals appeared on the charts, which typically leads to a brief price bounce.",
+                    "The relative strength index (RSI) on the weekly chart is the most oversold since March 2020, although strong resistance and negative momentum suggests limited upside over the next few months.",
+                    "Stronghold Digital first quarter earnings",
+                    "Mawson first quarter earnings",
+                    "Cosmos Gateway Conference",
+                    "In case you missed it, here is the most recent episode of \"First Mover\" on CoinDesk TV:",
+                    "Crypto Panic Eases, Bitcoin, Many Cryptos Seeing Green, Lessons Learned From UST Shock",
+                    "\"First Mover\" dove further into the UST stablecoin debacle and its punishing impact on crypto markets. BTC, other crypto prices were climbing but the outlook is uncertain. And what were the lessons learned? Joining host Christine Lee were Michael Coscetta of Paxos, which has a different kind of stablecoin than UST, and Benoit Bosc of GSR gave his markets analysis.",
+                    "Do Kwon’s Proposed Terra ‘Revival’ Puts UST, LUNA Holders in Charge: A “Revival Plan” submitted Friday by the Terraform Labs CEO would redistribute ownership of the network.",
+                    "Terra Validators Halt Blockchain for Second Time to Plot Next Steps: The blockchain was halted earlier Thursday after the governance token LUNA fell in price.",
+                    "Coinbase, MicroStrategy and Other Crypto Stocks Finally See Some Relief After Recent Losses: Shares of many crypto-related stocks had been battered during the week.",
+                    "Elon Musk Says He's Committed to Twitter Deal After Putting It on Hold: The landmark deal that would see Elon Musk take over Twitter and make it private has hit a stumbling block as Musk wants to verify the amount of fake accounts.",
+                    "Crypto-Related Stocks in Asia See Volatile Trading Amid Bitcoin Recovery: Traditional market investors risked-off publicly traded companies related to the crypto sector amid a drop in prices this week.",
+                    "Why the Fed Will Go Back to Easy Money: Amid a recession and political paralysis, the Federal Reserve will have no choice but to revert to quantitative easing. What will that mean for cryptos like bitcoin?",
+                    "Today's crypto explainer: Bitcoin Mining Difficulty: Everything You Need to Know",
+                    "Other voices: Why is crypto crashing? Analysts list the key reasons behind this week’s implosion (Fortune)",
+                    "\"It's a sobering moment for those of us in the crypto watching business. I’ve spent a great deal of time over the last two years trying to highlight absurdities in the bubbly crypto market (including predicting luna’s failure), but I still find myself somewhat shocked by just how exposed civilians became to one of the most experimental projects in the industry. And to be explicit, the crypto industry is still best thought of as entirely experimental.\" (CoinDesk columnist David Z. Morris) ... \"The downfall of UST as an algorithmic stablecoin is a Black Swan event and should never have happened. It was a project worth over $18 billion – practically too big to fail. Stronger regulatory controls overseeing the project’s automated trading system could have mitigated the situation a long time ago.\" (Fluid CEO Ahmed Ismail, for CoinDesk) ... “It’s hard to say, ‘Is this Lehman Brothers?’ We’re going to need some more time to figure it out. You can’t respond at this type of speed.” (Paxos co-founder Charles Cascarilla, quoted in The New York Times) ... Saudi Aramco has posted its highest profits since its 2019 listing as oil and gas prices surge around the world....In a press release, the firm said it had been boosted by higher prices, as well as an increase in production. The invasion of Ukraine has seen oil and gas prices skyrocket. Russia is one of the world's biggest exporters but Western nations have pledged to cut their dependence on the country for energy. Oil prices were already rising before the Ukraine war as economies started to recover from the Covid pandemic and demand outstripped supply. Other energy firms including Shell, BP and TotalEnergies have also reported soaring profits as a result, although many are incurring costs exiting operations in Russia.\" (BBC)",
+                    "CLARIFICATION (May 15, 2022, 1:49 UTC): The Terra network was halted twice.",
+                    ""
+                ]
+            }
+        ],
+        "title": "First Mover Asia: Singapore’s Regulators Will Be Eyeing Local Crypto Companies After Terra Collapse; Bitcoin Rebounds",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2022/05/15/first-mover-asia-singapores-regulators-will-be-eyeing-local-crypto-companies-after-terra-collapse-bitcoin-rebounds/"
+    },
+    {
+        "article": [
+            {
+                "title": "At Nationals Ballpark, Terra’s Bad Week Never Happened",
+                "published": "May 15, 2022 at 10:28 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/YNSXFPJELRH67NLK24GENFHXQM.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "WASHINGTON, D.C. — Terra may be on the ropes after last week’s dramatic death spiral, but the cryptocurrency’s name is still loudly emblazoned at the ballpark of Major League Baseball’s Washington Nationals.",
+                    "As the team wrapped up a series against the visiting Houston Astros on Sunday, CoinDesk went to see if the $38.5 million advertising deal had worked. Were people at the ballpark aware of Terra or its UST stablecoin? Had anyone bought the asset, now worth far less than a penny, when it was trading at $115 on opening day just a few months ago?",
+                    "Responses from the stadium’s employees and patrons would suggest not. Few had heard of Terra’s demise despite the attention it captured in the cryptosphere, with even fewer owning the asset or any cryptocurrency, for that matter. One elevator operator said Terra was Latin for “dirt.”",
+                    "Nevertheless, Terra may be a name Nationals fans eventually come to recognize. In February, LUNAtics rubber-stamped a proposal to place the blockchain’s name on in-stadium branding for the next five years, with payment for the deal being made up front and in U.S. dollars.",
+                    "The deal includes Terra’s logo being stitched into the high-priced seats behind home plate, which are highly visible on television broadcasts, as well as the naming rights to the “Terra Club,” the stadium’s all-inclusive dining lounge reserved for luxury fans.",
+                    "Whether the Nationals hold up their end of the deal remains in the air, as do plans to accept payments in UST slated for next season. Representatives of the franchise declined CoinDesk’s repeated requests for comment, and were not available for interviews at Sunday’s game.",
+                    "Crypto entities seeking out sports sponsorships like the Nationals’ deal with Terra have been a regular occurrence in the past year. Another MLB sponsorship was from the crypto exchange FTX, whose logo can be seen on the uniforms of the game’s umpires. While the Nationals’ deal with Terra isn't the only protocol tie-up in the league (Tezos sponsors the New York Mets, for example) it’s certainly the first high-profile blowup.",
+                    "But corporate sports sponsorships have a storied history of going south. Enron Field (a $100 million naming-rights deal that lasted just two of its intended 30 years) and Webvan (whose logo remained on 42,000 cupholders at the San Francisco Giants ballpark) long after it went bankrupt in the 2001 dot-com crash) are notable MLB flops.",
+                    "Read more: Terra Wants to Spend $40M on a Mystery Sports Deal. We Think It’s With This MLB Team",
+                    "That’s not to say the Nationals faithful were completely in the dark about Terra. One man seated in the Terra Club was well aware of the multibillion-dollar implosion; on Sunday he was telling his friends how that one coin went to zero.",
+                    "The fan told CoinDesk he held no crypto and wasn’t keen on changing that, especially after Terra. An ardent Nationals fan, he expressed something between dismay and grumbling acceptance for a deal the Nationals did “for the money.” He was happy to hear Terra paid up front.",
+                    "Of the roughly two dozen people CoinDesk spoke with, only one, an usher in a nearby section, knew the details of last week’s stunning collapse, expressing something like wonder at the fact an asset trading above $100 was now virtually worthless.",
+                    "Another, a bartender inside the Terra Club, knew Terra was some sort of “bitcoin” and seemed to know it had had a rough week. She said she had no money to invest in it and no plans to, but had heard it would “come back.”",
+                    "The Astros went on to defeat the Nationals by a score of 8-0 on Sunday, finishing off the series sweep behind five strong innings from perennial ace pitcher Justin Verlander."
+                ]
+            }
+        ],
+        "title": "At Nationals Ballpark, Terra’s Bad Week Never Happened",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/15/at-nationals-ballpark-terras-bad-week-never-happened/"
+    },
+    {
+        "article": [
+            {
+                "title": "Opinion",
+                "published": null,
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/NEOSIPKXYZEVVF3FNEJHBV3QLM.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "First, I want to highlight that a lot of regular, hardworking people lost money because of the crypto market crash over the last week or so. Some people lost all of their money. While money isn’t everything, losing a lot of it sure does feel like it. If you or someone you know lost money in the LUNA/UST crash, know that life is always worth living.",
+                    "If you somehow don’t already know, terraUSD (UST), a cryptocurrency that is supposed to stay at $1 (aka a stablecoin), is no longer $1. When something is supposed to be $1 and it’s not, that’s usually not good. What’s more, the crypto token that backs UST, LUNA, also lost virtually all of its value. These losses have been widely reported on, and so in all likelihood, this is the umpteen-millionth piece about UST you’ve seen.",
+                    "But it has to be done because readers will remember me gushing over the Luna Foundation Guard (LFG) – the nonprofit aimed at promoting and stabilizing the Terra ecosystem (which issues UST and LUNA) – announcing it would buy $10 billion of bitcoin to back UST. In fairness to me, I was mostly excited that I was able to write about something that Hal Finney published to the famed Bitcoin Talk forum. But in fairness to … the truth, I was not not excited about the possibility of a bitcoin-backed stablecoin.",
+                    "All said, I’m going to pack as much as I can into this column about Terra without being overwhelming or unoriginal.",
+                    "Here goes …",
+                    "– George Kaloudis",
+                    "You’re reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Sunday.",
+                    "There are these things in crypto called stablecoins. Stablecoins are supposed to be $1. Usually. Sometimes they are 1 euro or 1 won, but usually not. Blame U.S. dollar hegemony. Stablecoins exist so that crypto-natives can get in and out of the dollar easily without needing a bank to approve deposits and withdrawals. Stablecoins facilitate most crypto trading volume and power the never-ending crypto carousel that is “DeFi” (decentralized finance). More importantly, stablecoins are used by citizens subject to totalitarian governments spurring on hyperinflation.",
+                    "There are a few flavors of stablecoins out there, notably tether (USDT), USD coin (USDC), binance USD (BUSD) and dai (DAI). Also quite notably, we had terraUSD (UST). These are the five largest stablecoins and they represent roughly $160 billion of value. Three of these stablecoins (USDT, USDC, BUSD) are collateralized stablecoins issued by centralized entities. These entities own a treasury of dollars that back each coin so that each coin can be redeemed for $1 by the holder from the issuer.",
+                    "DAI is different in that it is collateralized and backed by a diversified portfolio of crypto assets. Instead of being issued by a centralized entity, a decentralized autonomous organization (or “DAO”) called MakerDAO manages DAI. DAI is collateralized with crypto rather than dollars, but it is, and this is critical, overcollateralized.",
+                    "UST is even more different. It’s not collateralized at all. It is an algorithmic stablecoin powered by the Terra protocol. Instead, it is backed by a crypto token called LUNA. I covered how this works in a previous newsletter writing:",
+                    "This is pretty clever on the surface. It’s simple. If the demand for UST is high enough to increase its price to $1.01, the protocol prints some UST in exchange for getting rid of some LUNA. The problem is that it works perfectly until it doesn’t. And boy did it stop working last Monday …",
+                    "That’s supposed to be $1, not 11 cents. The LUNA chart somehow looks worse.",
+                    "OK, naturally, you’re thinking that the mechanism broke or something. It didn’t break. It worked as designed and you can see that if you look at the amount of LUNA that has been issued as the protocol tried to algorithmically bring UST back to $1 while LUNA’s price was also tanking.",
+                    "That’s right. The total supply of LUNA went from about 725 million tokens on May 5 to about 7 trillion on May 13. Meanwhile, LUNA lost 99.9% of its value. This is what hyperinflation looks like.",
+                    "As mentioned above, Terraform Labs (the company behind Terra) laid out a plan to buy $10 billion of bitcoin and other crypto assets through the LFG in order to act as a backstop in case something like this happened. The problem remained, though. UST wasn’t fully collateralized like the other stablecoins in the top 5. Before the collapse, UST’s market capitalization was $18 billion, way more than the nearly $4 billion the foundation had in reserve.",
+                    "Our friends at crypto data provider Kaiko did a great job breaking down what exactly happened. The short of it is this: UST dipped below $1, and all attempts, both by the Terra protocol algorithm and by the lending out of LFG reserves to trading firms, couldn’t bring UST back to $1. Between UST and LUNA, over $40 billion of value was lost.",
+                    "What exactly happened doesn’t really matter. What really matters is that when something bad happened, Terra couldn’t handle it. What really matters is that an undercollateralized, algorithmic stablecoin will fail no matter how long it succeeds.",
+                    "The system failed. But if we’re honest, UST was a wild success up until the moment it wasn’t. History should serve as a lesson here, when we inevitably will see a successful UST copycat crop up in 2027 or whatever.",
+                    "We also are incredibly lucky that UST and LUNA aren’t big or intertwined enough to cause mass hysteria across all markets. I honestly believe we were lucky this happened in 2022 and not in 2030. Bloomberg’s Matt Levine put it well:",
+                    "Spot on. Even if you’re like me, a bitcoin maximalist praying for the day where we go back to just one cryptocurrency, you have to admit that we are going to see more crypto in more industries in the short to medium term. Except next time an undercollateralized, algorithmic stablecoin fails, it’s not going to be $40 billion of lost value. It might be $400 billion. That could be catastrophic. We should look to avoid that scenario at all costs.",
+                    "On the bright side, somehow bitcoin didn’t completely collapse. Over 80,000 BTC from that almost $4 billion treasury was potentially sold (we can’t yet confirm if the bitcoin was actually sold, but it was sent to exchanges) during the mad dash to get UST back to $1. That caused a price reaction, sure, but then again, the broader crypto market sold off because bad things were happening to a big crypto project (LUNA was once the 10th most valuable cryptocurrency). Add on the tenuous macroeconomic environment and general risk-off sentiment in the market, and it feels almost impossible that bitcoin still boasts a market cap of over $500 billion.",
+                    "I think we are numb to these large numbers given the unprecedented bull market of the last 13 years, and so this bears repeating. Bitcoin was a worthless, purely peer-to-peer version of electronic cash created by an unknown person in 2009. No big company or government put marketing, research or legal dollars behind it, and yet it is now a serious macro asset that important politicians and financiers feel the need to comment on.",
+                    "A serious macro asset that can take huge swathes of selling volume and still … not … go … away. Bitcoin is here to stay. So is crypto. As long as we learn from this, that can be a good thing.",
+                    "But if history is any indication, we still need to ensure that overconfidence doesn’t get the best of “future us.”"
+                ]
+            }
+        ],
+        "title": "The Collapse of UST and LUNA Was Devastating, but There Is Still Hope for Crypto",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2022/05/15/the-collapse-of-terra-was-devastating-but-there-is-still-hope-for-crypto/"
+    },
+    {
+        "article": [
+            {
+                "title": "What Happened to the $3.5B Terra Reserve?",
+                "published": "May 14, 2022 at 8:50 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/M62WAGXWNVDUZNKLIROU4HG65Y.webp",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Where’d that $3.5 billion go?",
+                    "Unless you’ve been off the grid for the last couple weeks, you likely already know the $3.5 billion of bitcoin (BTC) that was created, in part, to defend and support the terraUSD (UST) stablecoin, which proved to be anything but. However, while it’s clear that untold billions in value and wealth were lost when those reserves proved inadequate to prevent a depegging, what no one knows is what happened to those reserves and where they are now.",
+                    "Terra Labs CEO Do Kwon has said via Twitter that documentation regarding the use of the reserves during the depegging event would be forthcoming. Where the bitcoin is held and how it was used will be vital for investors seeking to recoup losses suffered through their exposure to UST, according to Tom Robinson, co-founder and chief scientist of Elliptic, a blockchain analytics firm.",
+                    "While it’s uncertain when Terra will release that documentation, Robinson said his firm has been following the money: some 80,394 BTC, worth $3.5 billion when purchased by the Luna Foundation Guard, the non-profit organization set up to promote the growth of the Terra ecosystem, between January and May this year.",
+                    "When the value of UST began to drop at the start of last week, LFG announced it would begin to dispose of its bitcoin reserves and purchase UST. On the morning of May 9, LFG announced that it would “Loan $750M worth of BTC to OTC trading firms to help protect the UST peg.” Terra creator Do Kwon later clarified that the bitcoin would be “used to trade.”",
+                    "At around the same time, 22,189 BTC (worth ~$750 million at this time) was sent from a bitcoin address linked to LFG, to a new address, Elliptic pointed out in a blog post. Later that evening a further 30,000 BTC (worth ~$930 million at the time) was sent from other LFG wallets, to this same address.",
+                    "Within hours, the entirety of this 52,189 BTC was moved to a single account at U.S. crypto exchange Gemini, via several bitcoin transactions, according to Elliptic.",
+                    "The purpose of having a very large reserve of bitcoin was potentially to purchase UST to push the price back up toward $1, which is probably the reason it was sent to exchanges. However, it’s not possible using the blockchain alone to identify whether it was sold to support the UST price, Elliptic’s Robinson said.",
+                    "This left 28,205 BTC in Terra’s reserves. At 1 a.m. UTC on May 10, those remaining reserves were moved in their entirety, in a single transaction, to an account at the cryptocurrency exchange Binance. Again, it is not possible to identify whether these assets were sold or subsequently moved to other wallets, Robinson said.",
+                    "“All we can see is it going into these exchanges,” Robinson told CoinDesk. “We can’t really see how it’s been used. It might have been sold, it might be being stored on the exchanges, it might have been withdrawn again and might be an unhosted wallet.”"
+                ]
+            }
+        ],
+        "title": "What Happened to the $3.5B Terra Reserve?",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/14/what-happened-to-the-35b-terra-reserve/"
+    },
+    {
+        "article": [
+            {
+                "title": "Justin Sun Talks USDD Stablecoin in Wake of LUNA/UST Unravel",
+                "published": "May 14, 2022 at 5:03 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/D5J33UNUCRFM7MDNNIFDT62OZA.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Justin Sun didn't anticipate Terra’s $19 billion UST stablecoin would unravel less than one week after his own algorithmic stablecoin, USDD, launched.",
+                    "In late April, Sun announced the blockchain he founded, Tron, would be creating its own algorithmic stablecoin, USDD. The controversial project drew criticism for its likeness to the Terra stablecoin UST, which, until this past week, was the largest decentralized stablecoin by market capitalization.",
+                    "In a Lehman Brothers-like moment for crypto markets, UST lost its peg to the U.S. dollar on Tuesday, catalyzing a painful death spiral that all but wiped out the $30 billion Terra ecosystem, including its once-white-hot LUNA token. A wave of extreme fear among traders led to steep declines across all cryptocurrencies, and the contagion appears to have briefly spread to other stablecoins, including Tether’s USDT and the Waves blockchain ecosystem's neutrino USD, or USDN.",
+                    "But Sun is an optimist. “I still believe in algorithmic stablecoins,” he told CoinDesk in a Zoom interview, which was scheduled before any of the market turmoil surfaced.",
+                    "According to its white paper, Sun’s stablecoin would maintain its peg by a minting/burn process that would convert one USDD to $1 worth of TRX, the native token of the Tron blockchain. Conversely, $1 worth of TRX could be burned to mint one USDD.",
+                    "As of Saturday morning, the market cap of USDD reached $270 million, according to data from CoinMarketCap. That's a fraction of the market cap of UST prior to last week's collapse and for now represents little threat to the asset-backed stablecoins USDT ($77 billion) and USDC ($51 billion), nor to the now-leading decentralized-finance stablecoin, DAI ($6.4 billion).",
+                    "Currently, the yields for staking Tron’s USDD are as high as 40%, about double the 20% yield offered by Terra’s Anchor Protocol.",
+                    "Despite UST’s unraveling this past week, Sun is confident Tron’s USDD will ultimately prove successful.",
+                    "The controversial crypto entrepreneur (and ambassador of Grenada to the World Trade Organization) spoke with CoinDesk about how USDD will differ from UST, the $10 billion Tron decentralized autonomous organization (DAO) treasury he’s planning to build, the crypto bear market and whether he’s in any way responsible for triggering the Terra meltdown (as some #cryptotwitterati have suggested).",
+                    "This interview has been edited for length and clarity.",
+                    "How did you get the idea to launch this decentralized stablecoin? Many critics are calling it a copy of LUNA/UST.",
+                    "First, I want to talk a little bit about algorithmic stablecoins. I think they are very important to our industry. Today’s stablecoins are very centralized. It’s all collateralized, which means they all need a bank, and real bank services. We call crypto a decentralized world, but today, stablecoins are the most centralized part. We wanted to design an algorithm to make sure stablecoins can basically stay decentralized.",
+                    "I think the failure of LUNA was not because algorithmic stablecoins are not viable or are not doable. LUNA’s failure mainly depended on too much leverage. They grew to a dramatic market cap in a very short period of time.",
+                    "When we designed USDD, we focused on the healthy growth of USDD. We want to keep our USDD market cap relatively small compared to TRX and total market cap. And also at the same time, smaller than the Tron DAO Reserve.",
+                    "How do you plan on building up the $10 billion reserve fund?",
+                    "We acquired BTC, USDT, USDC, TUSD and other stablecoins.",
+                    "Is it kind of ironic that you have a bunch of centralized stablecoins in the treasury collateralizing this decentralized stablecoin?",
+                    "We want two safety nets. The first is the algorithm. The stablecoin is primarily backed by the algorithm itself. It basically runs in a decentralized way. But you know, consider the current market volatility right now. ... That's why we need a decentralized reserve to try to use the money we have to stabilize the market.",
+                    "Do you plan on buying a diversified basket of crypto assets like the Luna Foundation Guard's strategy? If so, what assets are you eyeing?",
+                    "We haven't finalized the list but I think the main two we are buying right now are BTC and TRX. But we will consider other stablecoins and tokens in the future.",
+                    "What’s the planned breakdown of the $10 billion treasury?",
+                    "I think half will be in stablecoins. Mainly USDT and USDC, around $2 billion each. We also hold other stablecoins, like BUSD, DAI and TUSD – altogether around one $1 billion. The rest mainly is bitcoin [BTC] plus TRX.",
+                    "Do you know the breakdown between bitcoin and TRX?",
+                    "I think bitcoin occupies like 80% of that.",
+                    "Looking at the USDD chart [Thursday morning], you definitely see some more volatility. Do you have any thoughts on what caused that particular volatility?",
+                    "We consider 5% to be the range of a depeg, so until then we will run with the volatility. Recently, luna has caused a panic now not only on the algorithm stablecoin, but also in centralized stablecoins. So we have seen the tether price go up and down. Today I'm looking very closely at the market volatility and we have market makers and also liquidity providers to keep the price stable.",
+                    "What's your plan in case USDD depegs, like what happened with UST?",
+                    "I think the LUNA problem is still that they used too much leverage. That’s why when the market collapses, the money they have in their reserve is just not enough to recover. We all witnessed the market panic.",
+                    "[The Luna Foundation Guard] needs at least $10 billion to rescue the market and prevent the depeg from happening. That’s why leverage is dangerous. When we use leverage, we need to always be aware of how much is in our reserve. But it’s not only how much money you have, it’s also about how quickly you can provide the liquidity.",
+                    "So that’s why our reserve has different layers. We have stablecoins, which can be deployed immediately if anything bad happens, and then it can win time, and then we can gradually liquidate other assets if we need to. LUNA grew too fast, and they didn’t have time to build a good reserve fund to stabilize the market.",
+                    "If you remember, when the attack happened, people withdrew the 3pools from Curve, and they started to build up the 4pool. But between these times, the market liquidity was very weak. That's why when we provide liquidity to the market, we need to be super careful about this kind of liquidity squeeze as well. I still believe in algorithmic stablecoins. If we handle it well, it certainly can provide a good decentralized alternative.",
+                    "On the UST depeg, there have been rumors circulating about whether or not it was an intentional, coordinated attack on the peg. Some even mentioned you as one potential attacker, do you have any comment on that?",
+                    "I think the LUNA situation was mainly caused by market panic rather than by an organized attack. But we did see a lot of people withdraw liquidity at a very sensitive time. I wish the LUNA team would prepare for [liquidity shifts] way more carefully.",
+                    "If you want to manage algorithm stablecoin liquidity, I will basically advise you to make changes in a good, healthy market. I think the [U.S.] Federal Reserve had [its] meeting one day before LUNA moved their liquidity, right? Those times are super sensitive, you don't want to do anything to mess up the liquidity at that time. So I think there's lots of details, you need to pay attention if you are doing an algorithmic stablecoin.",
+                    "Just to clarify, you don't think that this was an organized attack? And you yourself are not behind it?",
+                    "[laughs] No, it was not me.",
+                    "What do you think the Terra team did right, and what do you think they did badly, that you would not do?",
+                    "At the end of the day, the Terra team opened the algorithm stablecoin era. This is the first time algorithmic stablecoins have grown past $10 billion in market cap. Also, they managed to get lots of very prestigious institutions and capital on board to build this product. Terra inspired a lot of the innovative [decentralized finance] products in the industry.",
+                    "In terms of what they did wrong, first, they grew to a very large market cap in a super short period of time. If the market cap were less than $5 billion they wouldn’t have failed like this. It will be so much easier to recover the peg. That’s the first thing, I think they basically grew too quickly.",
+                    "The second mistake, similar to the first, is because they grew in a very short period of time they had no time to consider all the different variables in these very complicated markets. First of all, the liquidity – like when you should move the liquidity pool, how much money you need to put in the pool, how to build the Luna Foundation Guard funds. There’s lots they need to plan beforehand, but because they grew in a very short period of time, I don’t think it was possible for them to consider everything.",
+                    "The third thing, LUNA had a problem when they set the interest rate of Anchor [the decentralized money market protocol built on the Terra blockchain]. I think yesterday they had to cut it from 20% to 4%. They should have done that a long time ago. Once you grow to a certain market cap, it is time to cut the interest rate a little.",
+                    "I also think we need to focus on real use cases rather than leverage. We need lots of people to use the stablecoin in their daily life, which also takes time.",
+                    "With Tron, you are advertising a 30% risk-free yield, which is even higher than Anchor’s. I just heard you criticize Anchor’s unsustainable yield. Why are you setting an even higher yield?",
+                    "It’s basically a marketing strategy, right? You get everybody involved to participate in the growth of the stablecoin. I think the yield should depend on the growth of the product.",
+                    "When people first start their companies they spend a lot of time on promoting, marketing their brand. But after they have an established brand and a very loyal customer group, they will start to reconsider their branding strategy.",
+                    "If you get involved as an early bird you can get more returns. I think this is totally reasonable. But after a year why keep the same strategy you’re doing when you are very small? I think this strategy needs to be dynamic rather than be a fixed yield.",
+                    "Right, so the 30% can be an intro offer. When do you plan on cutting it?",
+                    "First of all, the return should depend on the time someone contributes the liquidity in the first place. The problem with Anchor is people can pull money out of the pool immediately, which is also very dangerous. When market panic is happening, all the people are going to want their money at once.",
+                    "For example, we can have a 10% yield for you if you want to pull money out anytime. If you can lock up for six months, you can get 15%, and if you want to lock money away for a year, you can get 20%. Basically, I think these kinds of yield structures should depend on time.",
+                    "We still need to design a better structure on how to incentivize the community and how to incentivize the liquidity provider.",
+                    "It sounds like what you just mentioned with these incentive structures is not an algorithmic stablecoin-specific problem. These issues surrounding incentivizes and tokenomics are problems with crypto projects in general.",
+                    "Exactly.",
+                    "Right now, there is a lot of hesitation around algorithmic stablecoins. A lot of people think that the mechanism is doomed to fail. They say, ‘We just don't believe in the concept.’ What would you say to those people?",
+                    "I fully have confidence in stablecoins. When I first got to the industry, we had the Mt Gox hack, and a lot of people lost their life savings. Then lots of people didn’t believe in crypto exchanges anymore. At that time, I remember people saying, “I don’t trust any crypto exchange anymore. I will only use bitcoin in my wallet, and if I want to sell to anyone, I will go to localbitcoin.com.”",
+                    "That’s why we need to be super cautious and view this kind of operation like a crypto exchange. It’s very hard. You need to be super cautious with client money and win client trust, and it’s very easy to fail. In the past 10 years of bitcoin’s history, numerous exchanges got hacked, and loads of them went bankrupt because of the hack. That’s why we need to do things super carefully.",
+                    "The crypto industry is going to evolve and algorithmic stablecoins have got to be there, because I think this is a very important component of our ecosystem in the first place. We can’t blame the algorithm just because LUNA failed, just like we can’t blame the crypto exchange. I think we just need more sophisticated and well-planned structures. Thinking about things like leverage, growth and also having a dedicated team to carefully manage it.",
+                    "So you don't think that there’s a fundamental flaw in the design of these stablecoins and you think Terra/LUNA failed due to more operational issues?",
+                    "Yes. It can be prevented if you do things in a more careful way. For example, no bank in the world can survive if all their customers come to them on the same day and ask them to pay their money back. Every bank also needs very sophisticated management, right? That’s why I think this is more about managing well. We see lots of banks go bankrupt but some survive.",
+                    "Also, we see these financial crises that happen, like in 2008. I think these kinds of death spirals are very common in the whole financial industry. It’s an expensive lesson. But we can’t just abandon the financial industry because of these kinds of crises.",
+                    "What are your thoughts on if this will start a new crypto winter? What would it mean for the industry in the near term?",
+                    "Right now, it's the lower-bound support because people are over-panicking, especially today. At one moment on Binance, there was a person that wanted to sell four Tether for one USDC. That’s how much people are panicking.",
+                    "People are even giving up on USDT, which is a stablecoin. If you're talking about the mood of the market right now, it’s extreme fear. I saw this back in 2019. In market crash times, people start the tether FUD.",
+                    "Do you have any thoughts on the price of bitcoin? Will it go under $20K?",
+                    "If bitcoin can ever go down to $20K, I’m all in. That's the first thing. The second is, I think right now, at least in the near term, it's the bottom. We can't predict the future but I think definitely right now is a good time to buy."
+                ]
+            }
+        ],
+        "title": "Justin Sun Talks USDD Stablecoin in Wake of LUNA/UST Unravel",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2022/05/14/justin-sun-talks-usdd-stablecoin-in-wake-of-lunaust-unravel/"
+    },
+    {
+        "article": [
+            {
+                "title": "Do Kwon: ‘I Am Heartbroken’ Over Pain Caused by UST Collapse",
+                "published": "May 13, 2022 at 10:32 p.m. UTC",
+                "paragraph": [
+                    "Terra creator Do Kwon said in a tweet thread he was “heartbroken” about his creations losing functionally all of their value this week.",
+                    "Kwon, who founded Terraform Labs – creator of the luna (LUNA) governance token, terraUSD (UST) stablecoin and various other cryptocurrencies – said he spent the last several days calling various community members about the tokens’ losing all of their value. Luna, which was worth nearly $120 at the start of April, collapsed in dramatic fashion this week and traded around at less than 1 cent as of press time.",
+                    "“I still believe that decentralized economies deserve decentralized money – but it is clear that $UST in its current form will not be that money,” he tweeted.",
+                    "UST, a stablecoin whose value was supposed to remain pegged to the U.S. dollar, lost that peg earlier this week and never recovered.",
+                    "Kwon pointed to his “revival” plan on Terra’s Agora governance forum for next steps. Posted earlier Friday, the plan envisions distributing ownership in the network across UST and LUNA holders; it acknowledges Terra’s stablecoin as it stands is irrecoverable.",
+                    "Read more: Do Kwon’s Proposed Terra ‘Revival’ Puts UST, LUNA Holders in Charge",
+                    "“While a decentralized economy does need decentralized money, UST has lost too much trust with its users to play the role,” Kwon said there. The blockchain underpinning LUNA and UST was shut down twice by validators over the past day.",
+                    "Kwon said that he did not sell any of his LUNA or UST during the “incident.”",
+                    "The situation was exacerbated earlier this week when Terraform Labs and the Luna Foundation Guard, an entity tasked with maintaining the value of UST, appear to have hyperinflated LUNA by printing several billion tokens and dramatically increasing the number of tokens in circulation, further speeding LUNA’s price collapse in a bid to save UST.",
+                    "The token’s market capitalization fell from $28 billion at the start of May to just around $600 million at press time."
+                ]
+            }
+        ],
+        "title": "Do Kwon: ‘I Am Heartbroken’ Over Pain Caused by UST Collapse",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/13/do-kwon-i-am-heartbroken-over-pain-caused-by-ust-collapse/"
+    },
+    {
+        "article": [
+            {
+                "title": "Popular Crypto Data Sites Targeted With Phishing Attack",
+                "published": "May 13, 2022 at 10:07 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/OL7FC4LRBBBQJLBZD7YLKIVKY4.png",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Crypto data websites Etherscan, CoinGecko and others reported incidents of a malicious pop-up prompting users to connect their MetaMask wallets.",
+                    "The phishing attack appears to come from a domain displaying the Bored Ape Yacht Club logo. As of press time, the site tied to the domain appeared to be taken down. According to a WHOIS lookup, the domain was registered Friday around 3 p.m. ET.",
+                    "\"We are investigating the root cause of this attack to fix it as soon as possible,\" CoinGecko founder Bobby Ong told CoinDesk in a Telegram message.",
+                    "“The situation is most likely caused by a malicious ad script by Coinzilla, a crypto ad network – we have disabled it now,” said Ong. “We are monitoring the situation further.”",
+                    "In a tweet, Etherscan urged users to “not confirm any transactions” that popped up on its website.",
+                    "CORRECTION (May 14, 14:49 UTC): DeFi Pulse was not one of the websites affected in the attack, as reported in an earlier version of this story."
+                ]
+            }
+        ],
+        "title": "Popular Crypto Data Sites Targeted With Phishing Attack",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2022/05/13/popular-crypto-data-sites-targeted-with-phishing-attack/"
+    },
+    {
+        "article": [
+            {
+                "title": "Argentina Was at the Cusp of a Crypto Boom. The Central Bank Had Other Plans",
+                "published": "May 13, 2022 at 9:45 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/MJHOL74NZVHNJDKAPY5LHYOLVY.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Argentina is enjoying a true crypto boom. Millions of users entered the market and the stablecoin segment grew sixfold in 2021. The country is tenth in the crypto adoption index published by Chainalysis. Local conditions are ripe for adoption: 58% inflation, devaluation of the national currency and lack of access to U.S. dollars. For many Argentines, crypto is the best way to safeguard their savings.",
+                    "Banks were also getting into the action. On Monday last week, Banco Galicia (GGAL), the largest Argentine private bank by market value, added the option to buy and sell cryptocurrencies on its platform. The bank added a feature in its app’s investment section for users to acquire bitcoin (BTC), ether (ETH), USDC and XRP. That same day, the domestic digital bank Brubank began offering similar services. Both appeared to be a major step toward crypto’s mainstream adoption in Argentina.",
+                    "Then, Argentina’s Central Bank (BCRA) tried to slam the brakes.",
+                    "On May 7, only days after the banks’ announcements, the BCRA barred banks from offering services for any digital assets not regulated by the central bank. In other words, the banks themselves can no longer directly facilitate the buying or selling of crypto. Banco Galicia had to suspend its brand-new service.",
+                    "It wasn’t a total crackdown, however: When Argentines trade on local cryptocurrency exchanges, they can still use their bank accounts to send and receive pesos.",
+                    "The prohibition came as a shock to the banks involved in crypto. Banco Galicia had the BCRA's verbal approval to launch its new feature, sources close to the matter told CoinDesk, explaining that a Nasdaq-listed bank would not get into crypto without a real endorsement from the local regulator. Moreover, up to that point, there was no clear regulation preventing financial institutions from operating in the crypto sector.",
+                    "But now there is.",
+                    "According to Lirium, a Liechtenstein-based crypto company that was going to operate the feature offered by Banco Galicia, there were four other Argentinian financial institutions planning to launch a crypto trading service after Banco Galicia.",
+                    "Speculation about the reasons for the BCRA's decision is varied. One of the strongest suspicions is the BCRA's need to please the International Monetary Fund (IMF), after a $45 billion debt deal that the country signed in March with the organization, which includes a provision discouraging the use of cryptocurrencies.",
+                    "However, after an information request made by the local Nongovernmental organization Bitcoin Argentina weeks ago, the BCRA said that “crypto assets are not explicitly a target or benchmark of the program.”",
+                    "Sources close to the matter not authorized to speak publicly told CoinDesk that the BCRA's ban simply reflects a lack of knowledge of the crypto world, and its fear that banks will ask for U.S. dollars to buy and sell crypto.",
+                    "Currently, the main concern of the monetary authority is the scarce amount of U.S. dollar reserves, especially the liquid reserves, estimated by consulting firms to be negative. Due to that lack, for example, Argentines are prevented from acquiring more than $200 per month through banks and companies of different industries face production struggles due to import restrictions.",
+                    "However, Banco Galicia was not going to get its crypto with dollars from the BCRA’s reserves, but through a liquidity circuit provided by OSL, a Hong Kong-based digital-asset trading platform that began operating in Latin America last October.",
+                    "The BCRA’s decision hasn’t directly affected Argentine crypto exchanges. But they are nervously watching for signals.",
+                    "According to sources, the BCRA's decision generated bewilderment among the numerous exchanges operating in Argentina, which have recorded high growth rates in the last three years, largely because Argentines are not prevented from acquiring dollar-pegged stablecoins on their platforms. Consequently, in 2021, for example, the use of stablecoins increased sixfold, with DAI leading the way.",
+                    "In Argentina alone, crypto exchange Lemon already surpassed 1 million users weeks ago, the company said. Belo, an exchange that began operating in September 2021, has already surpassed 170,000 users and, at a 100% monthly growth rate, plans to surpass a million users before the end of the year.",
+                    "But despite the high growth rates, the exchanges are still nervous about the regulatory scenario. They all operate without a financial institution license, such as those held by Banco Galicia and Brubank, and most of them interact with the Argentine market — taking and returning Argentine pesos — as payment service providers, an activity regulated by the BCRA, since there is no special identity for exchanges in the country.",
+                    "The BCRA, for now, has no measures planned against exchanges, sources at the monetary authority told CoinDesk. It's understandable: Exchanges are helping address Argentines' desperation to get rid of their pesos amid a foreign exchange restriction that prevents locals from acquiring dollars through banks. And all the companies provide their services without using BCRA’s reserves.",
+                    "In any case, exchanges are wary, as it becomes increasingly clear that the current administration is not crypto-friendly. This isn’t the first time the BCRA stepped in. In June, it began an investigation of nine fintech companies for allegedly offering unauthorized financial intermediation through crypto assets. There were no further updates on that inquiry.",
+                    "But at least for now, the monetary authority has not yet impeded these financial institutions from transacting with exchanges. That, directly, would be a shot to the heart of the Argentine crypto ecosystem."
+                ]
+            }
+        ],
+        "title": "Argentina Was at the Cusp of a Crypto Boom. The Central Bank Had Other Plans",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2022/05/13/argentina-was-at-the-cusp-of-a-crypto-boom-the-central-bank-had-other-plans/"
+    },
+    {
+        "article": [
+            {
+                "title": "Market Wrap: Cryptos Are Higher After a Volatile Week",
+                "published": "May 13, 2022 at 8:34 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/UJUAVJ64MNHFZJINDXNQFHCKHE.png",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Most cryptocurrencies traded higher on Friday as bearish sentiment waned. It appears that short-term buyers have returned from the sidelines, although technical indicators show limited upside from here.",
+                    "Bitcoin (BTC) returned toward the $30,000 price level and was up by as much as 5% over the past 24 hours. Still, momentum signals remain negative on the charts after BTC's 17% dip over the past week.",
+                    "For now, cryptos and stocks are experiencing a relief bounce, which could last for a few more days. Alternative cryptos (altcoins) outperformed on Friday, which reflects a greater appetite for risk among traders. For example, ICP, MANA and DOGE rallied by more than 20% over the past 24 hours.",
+                    "Just launched! Please sign up for our daily Market Wrap newsletter explaining what happens in crypto markets – and why.",
+                    "Meanwhile, the Terra blockchain resumed activity on Friday following a nine-hour halt. The LUNA token continued to trade below 1 cent at the time the network was halted.",
+                    "Also, on Friday, the Grayscale Bitcoin Trust's (GBTC) discount widened to an all-time low of 30.79%. The recent crypto sell-off also may have contributed to a wider GBTC discount. (Grayscale is a CoinDesk sister company.)",
+                    "Fewer crypto traders sought refuge in stablecoins during the recent market sell-off. That suggests investors are starting to exit crypto markets.",
+                    "The chart below, provided by Glassnode, shows the 30-day change in aggregate stablecoin supply (blue) alongside the contribution by stablecoin USDC (red). Since last May, USDC has been a significant contributor to total stablecoin supply growth. Recently, however, USDC has been the primary stablecoin asset experiencing redemption.",
+                    "Stablecoin supply contraction signals a degree of net capital outflow from the cryptocurrency industry at large, according to Glassnode. \"Overall, there are a number of signals of net weakness in the space, many of which indicate that risk-off sentiment remains the core market position at this time,\" Glassnode wrote in a blog post.",
+                    "Interestingly, Tether's USDT has seen its supply continue to expand over the same period of USDC outflows. But since the start of April the aggregate stablecoin supply has plateaued.",
+                    "It remains to be seen if trust in stablecoins will return following Terra's faulty experiment using algorithms. Some stablecoin issuers have assured market participants that not all stablecoins are the same (some are backed by cash-like instruments, while others try to maintain their value based on an algorithm that balances the stablecoin with a partner token). But recent episodes have exposed instability in the so-called stable corner of the crypto universe.",
+                    "For now, cryptos could face additional volatility ahead, which could keep some buyers on the sidelines (in stablecoins or cash).",
+                    "Despite the recent price bounce, bitcoin's forward returns following a peak-to-trough decline of 55% or more tend to be flat or negative over the following six months, according to Delphi Digital.",
+                    "Most digital assets in the CoinDesk 20 ended the day higher.",
+                    "Sector classifications are provided via the Digital Asset Classification Standard (DACS), developed by CoinDesk Indices to provide a reliable, comprehensive and standardized classification system for digital assets. The CoinDesk 20 is a ranking of the largest digital assets by volume on trusted exchanges."
+                ]
+            }
+        ],
+        "title": "Market Wrap: Cryptos Are Higher After a Volatile Week",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2022/05/13/market-wrap-cryptos-are-higher-after-a-volatile-week/"
+    },
+    {
+        "article": [
+            {
+                "title": "‘Stable in Name Only’: Stablecoin Issuers Speak Out as UST Craters",
+                "published": "May 13, 2022 at 7:00 p.m. UTC",
+                "paragraph": [
+                    "As the cryptocurrency industry takes stock of the dramatic unraveling of the UST project, those that build and maintain stablecoins are at pains to point out that these instruments aren't created equal.",
+                    "That message needs repeating, says Dante Disparte, chief strategy officer and head of global policy at Circle, creator of the USDC stablecoin, because it’s not obvious to people outside of crypto and that may include regulators and politicians whose attention will now be focused on the industry.",
+                    "“I do think there’s a conversation around disassociation; that the term of art ‘stablecoin’ has probably run its course,” Disparte said in an interview.",
+                    "“It does warrant a discussion around, do algorithmic stablecoins even belong in the class of instruments that are subject to existing regulations? Do they belong inside the perimeter that touches real consumers and real payments?\" he added.",
+                    "Circle’s USDC, which counts BNY Mellon as a custodian and which recently received investment from BlackRock, the world's largest asset manager, has a circulation of $49 billion, according to CoinMarketCap.",
+                    "Tether, the largest asset-backed stablecoin with a $79.3 billion market cap at the time of this writing, generally held its peg over the course of this week, confirming on Thursday that it was continuing to honor redemptions.",
+                    "Speaking about the Terra debacle during a Twitter Spaces discussion, Tether Chief Technology Officer Paolo Ardoino echoed Disparte’s call for clearer classification of stablecoins.",
+                    "“We would like to see a categorization of stablecoins, where there are of course the centralized stablecoins, and Tether is the biggest one, and there are algorithmic stablecoins,” Ardoino said. “I believe that it is really important for customer protection to have some sort of guidelines.”",
+                    "Disparte said that while regulators have so far placed a lot of attention on asset-backed stablecoins such as USDC, algorithmic stablecoins have so far been a bureaucratic “blind spot.”",
+                    "“Those are the ones that are blowing up, and so I think it’s an association problem,” Disparte said. “It’s a ‘stable-in-name-only’ problem. But the risk that has manifested itself is exactly why the policy conversation about these types of issues matters.”",
+                    "To be clear, there are generally thought to be three varieties of stablecoin: fiat collateralized (USDT, USDC), crypto collateralized (DAI, sUSD) and algorithmic (UST, IRON).",
+                    "Despite a blurring of classifications, some lawmakers are making distinctions, as Republican Sen. Pat Toomey of Pennsylvania did earlier this week as UST catapulted its way into congressional testimony.",
+                    "As for algorithmic stablecoins, there’s a spectrum within that category, said Fernando Martinelli, CEO at Balancer Labs, an automated market maker in the decentralized finance (DeFi) sector.",
+                    "“There has always been a question mark within that third category of algorithmic stablecoins,” Martinelli said. “You can’t tell if an algorithmic stablecoin has no substance or is not well designed. There are some that are algorithmic that are collateralized to a high degree, but not over-collateralized.”",
+                    "Since Terra began blowing up, DAI, a five-year-old overcollateralized stablecoin overseen by the MakerDAO community, has held its peg and carried out liquidations of collateral in an orderly fashion, which has been “a great test of the system,” said Luca Prosperi, a leader on lending oversight at MakerDAO.",
+                    "MakerDAO’s DAI is stable because it’s conservative and is overcollateralized, Prosperi said. The current collateral ratio is 175.59%, meaning each DAI is backed by $1.7558 worth of collateral; notably, the USDC stablecoin currently accounts for 41% of collateral used to mint DAI, according to on-chain data compiled by Dai Stats.",
+                    "Maker’s automated liquidation mechanism starts liquidating collateral to protect itself and has shrunk accordingly, down to a $6.4 billion market cap.",
+                    "“Maker did exactly what it was supposed to do,” Prosperi said in an interview.",
+                    "“It shrank because the economy is shrinking and the currency base is shrinking,\" he added.",
+                    "\"The system has been stable because it’s been built in a very conservative way, and that took a lot of effort from core team members because this community is very impatient. So when Terra was growing, a lot of people were accusing us of being too conservative. But we’re running a currency.”",
+                    "Concerning Circle’s point about terminology and how this will play in the eyes of regulators, Prosperi said calling something a “stablecoin” is a great marketing tool. But he cautioned against a straightforward recategorization since there is a “continuum.”",
+                    "At one end of the spectrum is USDC, “a plain vanilla coin that is very safe, is not very innovative but is a great bridge,” Prosperi said. The other extreme is UST, and DAI is somewhere in the middle, he said.",
+                    "“I think we will see more and more and more diversification of this term into sub-terms that reflect much better what are the single-use cases for each of these projects, and I guess that some of the best projects will work together,” Prosperi said. “I think USDC can be a great collateral for Maker that can create an overlay of leverage that is conservative through DAI.”",
+                    "On the subject of regulatory scrutiny of algorithmic stablecoins after UST’s demise, Prosperi said MakerDAO is a “weird animal” in that it’s a decentralized community rather than a legal entity and a permissionless protocol that can’t be switched off.",
+                    "“I think there will be some pressure from the regulators, for sure. But I think Maker is probably not in the frontline,” he said. “I think USDT, USDC, these ramps are the frontline, and other services that allow liquidity to come on-chain will be scrutinized.”"
+                ]
+            }
+        ],
+        "title": "‘Stable in Name Only’: Stablecoin Issuers Speak Out as UST Craters",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/13/stable-in-name-only-stablecoin-issuers-speak-out-as-ust-craters/"
+    },
+    {
+        "article": [
+            {
+                "title": "Bitcoin Oversold, Resistance at $33K-$35K",
+                "published": "May 13, 2022 at 6:33 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/VAU5CXGCCNFGBJNM2Z6NT7WTSY.png",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Bitcoin (BTC) bounced toward $30,000 on Friday as buyers reacted to oversold conditions. Still, any upside appears to be limited, and the cryptocurrency could face resistance at $33,000 and $35,000.",
+                    "Momentum signals remain negative on the daily, weekly and monthly charts, which typically leads to a period of low or negative returns. Further, BTC is on track for its first-ever consecutive seven-week decline, according to Coinbase price data provided by TradingView, dating back to 2014. That's also a sign of negative price momentum.",
+                    "For now, BTC is approaching lower support near its 200-week moving average, which is now at $21,800. Immediate support is between $27,000 and $30,000, which could stabilize price action over the next few days.",
+                    "Also, on Thursday, short-term countertrend signals appeared on the charts, which typically leads to a brief price bounce.",
+                    "The relative strength index (RSI) on the weekly chart is the most oversold since March 2020, although strong resistance and negative momentum suggests limited upside over the next few months."
+                ]
+            }
+        ],
+        "title": "Bitcoin Oversold, Resistance at $33K-$35K",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2022/05/13/bitcoin-oversold-resistance-at-33k-35k/"
+    },
+    {
+        "article": [
+            {
+                "title": "LUNA Exchange-Traded Product Issuances Halted After Price Shellacking",
+                "published": "May 13, 2022 at 5:14 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/TKSZJP5BQJFBTIMUNOSHKU6CLY.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Three different exchange-traded product (ETP) issuers announced they will suspend trading and issuing shares in LUNA-related investment vehicles after the cryptocurrency lost almost all of its value over the course of a week.",
+                    "VanEck, Valour and 21Shares, all of which offer luna ETPs in Europe, suspended issuing shares, citing the network’s recent issues, which include two complete shutdowns of the purportedly decentralized network. All three products lost close to 100% this week.",
+                    "VanEck alerted investors Friday that it will be temporarily suspending creations and redemptions of shares in its VanEck Terra ETN (exchange-traded-note), which trades in several European nations. The firm pointed to the “loss of most of its value and the halt of the Terra network.”",
+                    "VanEck added that it is “unable to conduct transactions in Luna through the Terra network. Therefore, it is technically not possible to accept creations and redemption for VanEck Terra ETN.”",
+                    "Likewise, Valour said it is halting trading of its Valour Terra (LUNA) SEK product, which trades on the Nordic Growth Market in Scandinavia. The firm cited “high volatility and the prevailing uncertainty around the Terra ecosystem.”",
+                    "Valour also said that it seeks to “provide a market, through the market maker, as soon as it is possible and allowed.” Valour is a unit of Canadian-listed DeFi Technologies.",
+                    "Meanwhile, a spokesperson for Swiss-based 21Shares told CoinDesk that given the LUNA network “operating intermittently and inconsistently, 21Shares is unable to provide creation and redemption operations and is suspending the quotation of the Terra ETP. We will continue to closely monitor this fast evolving situation on the underlying.”",
+                    "21Shared warned investors on Thursday that “if the price of LUNA drops to zero, that will be reflected in the indexed products and the value of the tracker fund will also fall to zero. As LUNA experiences low prices and high volatility, it is likely that exchange spreads will continue to widen, which may ultimately lead to delisting on the part of the exchanges.”",
+                    "Read more: LUNA, UST Still Available on FTX and Other Exchanges Despite Terra Blockchain Halt"
+                ]
+            }
+        ],
+        "title": "LUNA Exchange-Traded Product Issuances Halted After Price Shellacking",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/13/luna-exchange-traded-product-issuances-halted-after-price-shellacking/"
+    },
+    {
+        "article": [
+            {
+                "title": "Do Kwon’s Proposed Terra ‘Revival’ Puts UST, LUNA Holders in Charge",
+                "published": "May 13, 2022 at 5:05 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/75PJ4DXUDFCPZL22LG344B5PFU.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Terraform Labs founder Do Kwon, in a forum post submitted 30 minutes ago, proposed a “Terra Ecosystem Revival Plan.”",
+                    "Kwon’s “Revival Plan” amounts to a restart of the entire Terra blockchain, with network ownership getting distributed entirely to UST and LUNA holders through 1 billion new tokens.",
+                    "The plan comes as Terra’s terraUSD (UST) stablecoin, which is supposed to be pegged to the price of $1, “death spiraled” below 15 cents this week – wiping out over $30 billion in value. UST’s sister token, LUNA, which propped up the stablecoin’s value, has fallen to below a penny (LUNA was worth above $80 just a week ago).",
+                    "In Friday’s proposal, Kwon, who created the Terra blockchain with his Terraform Labs team, concedes that the Terra ecosystem has experienced total collapse.",
+                    "“Even if the [UST] peg were to eventually restore after the last marginal buyers and sellers have capitulated, the holders of Luna have so severely been liquidated and diluted that we will lack the ecosystem to build back up from the ashes,” Kwon wrote.",
+                    "He continued, “UST holders need to own a large share of the network, as the network’s debt holders they deserve to be compensated for the tokens they have been holding to the end.”",
+                    "This is a developing story. Check back for updates."
+                ]
+            }
+        ],
+        "title": "Do Kwon’s Proposed Terra ‘Revival’ Puts UST, LUNA Holders in Charge",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2022/05/13/do-kwon-proposes-restart-of-terra-blockchain-as-ust-luna-plummet/"
+    },
+    {
+        "article": [
+            {
+                "title": "Coinbase, MicroStrategy and Other Crypto Stocks Finally See Some Relief After Recent Losses",
+                "published": "May 13, 2022 at 3:45 p.m. UTC",
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/5OTGXV4B3BBN7FYCEXPK7FVNKM.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Cryptocurrency-exposed equities were rallying strongly Friday after a rough downturn this week caused by falling crypto prices, weak earnings and stablecoin fears.",
+                    "Coinbase Global (COIN) jumped almost 18%, MicroStrategy (MSTR) gained over 21% and Toronto-listed Galaxy Digital Holdings (GLXY) rose about 14%. Additional gainers included crypto-focused bank Silvergate Capital (SI), up 23%, and crypto broker Voyager Digital (VYGVF), up 24%.",
+                    "Bitcoin mining stocks were also up significantly on Friday, led by CleanSpark (CLSK) and Hut 8 (HUT).",
+                    "Gains in bitcoin (BTC), which was up 4% over the last 24 hours, and ether (ETH), up 5%, along with a broader tech stock rally were helping the cause as investors have recently fled high-growth tech stocks and riskier crypto assets. The tech-heavy Nasdaq composite index was rising over 3% Friday.",
+                    "Coinbase got a much-needed boost after posting weaker-than-expected earnings on Tuesday that caused its stock to fall as much as 34% this week. Oppenheimer defended the company’s 10-Q risk disclosure that led to investor concerns in a note on Thursday, saying the filing and tweet from CEO Brian Armstrong are “grossly misunderstood and being taken out of context.” Analyst Owen Lau maintained an outperform rating and price target of $197.",
+                    "Shares of MicroStrategy, which holds billions of dollars worth of bitcoin on its balance sheet, were down as much as 45% at one point this week. Despite bitcoin’s latest declines, CEO Michael Saylor tweeted on Tuesday that the company’s bitcoin-backed loans were not a cause for concern.",
+                    "The collapse of algorithmic stablecoin terraUSD (UST) along with the LUNA ecosystem also sent broader crypto prices lower this week.",
+                    "“The extent of the damage caused from the depegging of recent stablecoins, and collapse of LUNA is unknown and will likely continue to play out in the weeks to come, but we expect that recent events in the crypto market to be catalysts for regulation, particularly around stablecoins, which we think would be welcomed by investors,” Chris Allen, an equity research analyst at Compass Point, told clients in a note Friday.",
+                    "Elsewhere, Robinhood (HOOD), which has a significant crypto trading business, rose over 26% on Friday after it was learned that FTX CEO Sam Bankman-Fried had taken a 7.6% stake in the online brokerage.",
+                    "Read more: Investor Concerns About Galaxy Digital's LUNA Exposure Are Overblown, BTIG Says"
+                ]
+            }
+        ],
+        "title": "Coinbase, MicroStrategy and Other Crypto Stocks Finally See Some Relief After Recent Losses",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2022/05/13/coinbase-microstrategy-and-other-crypto-stocks-finally-see-some-relief-after-recent-losses/"
+    },
+    {
+        "article": [
+            {
+                "title": "Opinion",
+                "published": null,
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/MRLCLAMOJBA5VO63HUN3LEVQ7A.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Is this the end of the algorithmic stablecoin?",
+                    "Last week, UST, the digital asset that was supposed to represent the value of $1, exploded in a spectacular fashion. The stablecoin, which once had an $18 billion market cap, is now trading for less than 60 cents – well off its peg to the greenback. Terraform Labs, the organization that built the system, supposedly deployed about $3 billion worth of bitcoin, paused the blockchain, flooded the market with UST’s sister token LUNA and tried to pay out arbitrageurs taking advantage of the volatile situation in an effort to rescue its network.",
+                    "Those expensive gambles failed, and even Do Kwon’s, UST’s principal architect, said the network as it once was can’t be salvaged. Terra is working on something of a repayment plan for “small” token holders.",
+                    "This article is excerpted from The Node, CoinDesk's daily roundup of the most pivotal stories in blockchain and crypto news. You can subscribe to get the full newsletter here.",
+                    "All of this raises two very important questions for the industry: Are all “algos,” or algorithmic stablecoins, dead on arrival? And should there be regulation in place to prevent a similar disaster?",
+                    "At least one person thinks this isn’t the end for algos. Jonathan Wu, who’s the head of growth at the Aztec Network, a layer 2 network, told cryptocurrency podcaster Laura Shin just that.",
+                    "“The algorithmic stablecoin is a holy grail. If you think about what an undercollateralized, algorithmic stablecoin is, it is printing money out of thin air. There will always be capital chasing that dream in my opinion,” Wu said on an “Unchained” podcast episode last week.",
+                    "If one person thinks that, others likely do, too. And with somewhat understandable reasons. Wu painted with broad strokes: Stablecoins are necessary to smooth out crypto’s volatility, and if there’s a cheaper way to do that, people will attempt it.",
+                    "There are essentially two stablecoin models: collateralized and uncollateralized. Collateralized stablecoins like USDC or tether maintain financial reserves like currencies or bonds in things like bank accounts to ensure that holders of these synthetic dollars can redeem them for actual money, at some point.",
+                    "Algos forgo this failsafe and attempt to maintain their pegs through other financial means. UST used an on-chain redemption tool and a related token, LUNA, that was supposed to prop up UST’s value based on changing supply and demand. LUNA was burned or minted as UST rose or fell against the dollar.",
+                    "The purpose was to create a “crypto-native” dollar – with all of the supposed benefits of blockchains, like censorship resistance – that would be cheaper to use than a fully or partially collateralized option.",
+                    "Wu’s back-of-the-napkin math had it that UST users could print a synthetic dollar on Terra for about 20 cents. He compared that with dai, a blockchain-based stablecoin maintained by MakerDAO that holds overcollateralized crypto reserves, which costs $2 to use, Wu said.",
+                    "See also: '$DAI Will Die' Tweet Twisted Back on Terra's Kwon as UST Loses $1 Peg",
+                    "“Now if I'm a venture capitalist or any capital provider, I'm looking at this and I'm saying I can create a monetary system that's 10 times more capital efficient than the alternative. I'm willing to chase that dream over and over and over again,” Wu said.",
+                    "Moreover, Wu said that “collectively, as an ecosystem, we've shown that we're willing to chase that dream over and over again and risk systemic toxicity in DeFi (decentralized finance) markets.”",
+                    "Just think of the value creation.",
+                    "But what of the value that’s been destroyed?",
+                    "Before it imploded last week, UST substantially deviated from its peg only twice, including once in December 2020, when it fell to about 85 cents, and again in May 2021, when it dropped to 94 cents. In other words, Terra functioned more or less as promised until it didn’t.",
+                    "Along the way, however, figures like University of Calgary professor Ryan Clements were sounding the alarm bell. In October’s Wake Forest University Law Review, Clements wrote a considered piece claiming that all algos are doomed.",
+                    "These are assets that, like fiat, have value because a committed group of people say they do. The issue is, Terra’s user base is necessarily smaller than the U.S. economy, and although it had “lunatic” fans, the blockchain lacked an army.",
+                    "Apart from the demand issue, Clements noted that Terra relied on “self-interested” investors who could profit from its algorithm as it began to fail. That problem, as we saw last week, is compounded by a “herd-like” sell pressure that accelerates a sell-off.",
+                    "Other algos – like magic internet money (MIM), frax (FRAX) and neutrino usd (USDN) – are far from immune, Clements argued. Because they are backed by volatile assets and prone to herd behavior, algos “exist in a state of perpetual vulnerability,” he wrote.",
+                    "Just today, Deus Finance's algo called dei (DEI) fell to as low as 54 cents during European trading hours, a drop that was in part precipitated by volatility across stablecoin trading. Kwon’s previous project Basis Cash similarly exploded, as did the algorithmic stablecoin IRON – which prompted investor Mark Cuban to call for stablecoin regulation.",
+                    "“What is an algorithmic stablecoin? Is it stable? Do buyers understand what the risks are? It needs standards,” Cuban tweeted in September.",
+                    "Cuban was mocked at the time for his hypocrisy and aversion to risk, but that – regulation – is certainly where all of this points. If it’s not possible for on-chain mechanisms to maintain their own price controls, then some other entity will come in to set standards.",
+                    "CoinDesk’s own Nikhilesh De wrote about the need for proper oversight, and he is far from alone. Treasury Secretary Janet Yellen commented last week on the UST crisis. The question remains, what will regulations look like?",
+                    "Unfortunately, for the crypto industry, they won’t necessarily get to write their own rules – even if they can participate in the drafting process.",
+                    "“​​I expect the regulation will look like more and more governance tokens being considered securities,” notable industry skeptic Bennett Tomlin told The Node in a private message. “[Governance tokens] have claims against assets, claims against cash flows often and are the easiest target for regulators.”",
+                    "Unfortunately for regulators, anyone can create a crypto system – a process that means financial cops have been and will likely continue playing whack-a-mole with issuers. Although the U.S. Securities and Exchange Commission has begun to crack down on the industry, issuing broad warnings and doubling the size of its crypto enforcement wing – even with clear rules, there will still be some anarchists like Kwon willing to buck the system.",
+                    "Nic Carter, a venture capitalist and CoinDesk columnist, doesn’t see official guidance as helping either, for similar reasons. But the industry, which was already highly skeptical of stablecoins, could enforce its own rules.",
+                    "“I don’t think you can proactively regulate stuff like UST out of existence, any more than you can regulate plustoken or paycoin or onecoin or other similar schemes,” Carter told me. He added that UST was never “befitting of the word stablecoin” because its “true objective was to pump LUNA.”",
+                    "“So the questions of ‘how do we regulate USDC’ and ‘what do we do about UST/Luna’ are totally distinct,” he said. “The latter is more about how do you stop large-scale financial fraud from happening.”",
+                    "See also: Top US Lawmaker Proposes Sweeping Stablecoin Regulation",
+                    "Rules are coming for stablecoins to make them look and function more like banks. Similar rules can be self-enforced in the crypto industry. Users could demand robust reserves even for algos, or something like “an orthodox currency board,” Carter said, referring to the monetary authorities that maintain exchange rates for foreign currencies.",
+                    "Whether a system like that is possible and whether those authorities will use tokens that increasingly look like securities are open questions. But it does seem like one lesson for many investors is to choose collateralized stablecoins in the future.",
+                    "How long that preference will remain or how long the memory of UST’s implosion can stay in mind is another can of worms.",
+                    "As Wu said, algorithmic stablecoins are the “holy grail.” Or, as Tomlin put it, “The main reason I think people will keep trying is the appearance of free money.”"
+                ]
+            }
+        ],
+        "title": "UST Won't Be the End of Algorithmic Stablecoins",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/layer2/2022/05/16/ust-wont-be-the-end-of-algorithmic-stablecoins/"
+    },
+    {
+        "article": [
+            {
+                "title": "Opinion",
+                "published": null,
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/HCAC25WRRFGRZI65WRPJSCSV4U.JPG",
+                    "alt": null
+                },
+                "paragraph": [
+                    "\"But they, our ancestors, became arrogant and stiff-necked, and they did not obey your commands. They refused to listen and failed to remember the miracles you performed among them. They became stiff-necked and in their rebellion appointed a leader in order to return to their slavery.” (Nehemiah 9:16-21)",
+                    "Bitcoin’s genesis block is historic, not just because it contained the first 50 bitcoins, but because it had a message coded in the hash code: \"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.\"",
+                    "Nathan Thompson is the lead technical writer at Bybit.",
+                    "This reference to the 2008 financial crisis from Bitcoin’s creator, the pseudonymous Satoshi Nakamoto, is often read as an indirect mission statement: The financial system could be redesigned, money could obey immutable laws written into code, and finance could flow unimpeded. Bitcoin would be decentralized, beyond reproach and beyond manipulation.",
+                    "However, it seems that the crypto industry, rather than recreate a trustless and egalitarian digital economy, has been dogged by in-fighting. We have recreated a techno version of the Old System, where greed for yield led people into convoluted and dangerous profit-maximizing strategies.",
+                    "That is, without the benefits of power.",
+                    "The meltdown of TerraUSD (UST) – which was once the third-largest stablecoin by market capitalization, which was once famous for offering a 20% annual percentage yield on deposits in the Anchor protocol and which was once going to make a lot of people very rich – appears to be total. This time there are no taxpayer bailouts.",
+                    "See also: Do Kwon's Proposed Terra 'Revival' Puts UST, LUNA Holders in Charge",
+                    "Terra’s collapse, coupled with a consumer price index of 8.3%, has led to selling across the crypto markets. Bitcoin buckled and is now below $30,000, with alternative coins faring no better as investors either sold into BTC or exited into cash.",
+                    "Due to its algorithmic design, UST has a price that moves in sync with the price of Terra’s native cryptocurrency LUNA. The bank run that disentangled UST’s peg to the U.S. dollar also collapsed LUNA’s price, which crashed over 99% in two days to less than a cent. Earlier this year, UST and LUNA had a combined market cap of $60 billion, and now it’s under $7 billion.",
+                    "The fallout has just started. There are yield aggregators that use UST as collateral and God knows what other complex financial strategies built on top of UST that are now at risk. People have lost their life savings; there are tears and depression.",
+                    "Do Kwon, the braggadocious CEO of Terraform Labs, last year made CoinDesk’s Top 10 Most Influential list. Like other brilliant tech entrepreneurs, he had the status of a cult hero – people thought UST was one of the most brilliantly designed financial products, because it was successful.",
+                    "It’s still unfolding how or why UST collapsed. But Kwon made powerful enemies with a plan, unveiled earlier this year, to make UST one of the premier stablecoins in the world by draining liquidity from rival projects on the decentralized finance tool Curve Finance. He exacerbated things by throwing his weight around on Twitter.",
+                    "Indeed, Kwon took a multimillion-dollar bet on the price of LUNA, said rival stablecoin DAI would “die by my hand” and called a critic a slur for someone with diminished mental capabilities for pointing out vulnerabilities in UST’s design.",
+                    "It's not surprising, then, that blockchain analysts are already finding evidence that UST’s meltdown was caused in some part by sabotage. It seems an unknown actor dumped $84 million of UST exactly one minute after Terraform Labs had withdrawn capital to fund its new “4pool” on Curve. That helped cause UST to deviate from its peg, which started the avalanche of panic selling and liquidations.",
+                    "Today, Kwon and his team are scrambling to find a solution. Many believe it is beyond saving, especially as traders will long and short UST the whole way back to dollar parity – if it ever gets there.",
+                    "See also: UST’s Bitcoin Reserve Too Late in Coming to Save Dollar Peg",
+                    "Kwon reminds me of another crypto folk hero, Daniele Sestagalli, the founder of Wonderland Money and a celebrated crypto developer. A series of liquidations plus revelations that his business partner was a convicted criminal led to a complete loss of faith in his projects. Sestagalli has yet to make a comeback.",
+                    "The industry would do well to remember Satoshi’s founding message: Crypto is supposed to make things better. It’s supposed to offer people a way to save and grow their capital without having to trust third-party actors who have failed time and time again – like Do Kwon.",
+                    "I’m not naive enough to think that the lessons learned from today will lead to a kumbaya situation where the proverbial lions lie down with the lambs. However, we are seeing strength from bitcoin and the faith that it and other quality assets will withstand this pressure and that as long as they do, Satoshi’s dream will live on."
+                ]
+            }
+        ],
+        "title": "Satoshi's Mission, LUNA, UST and Where Crypto Went Wrong",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/layer2/2022/05/14/satoshis-mission-luna-ust-and-where-crypto-went-wrong/"
+    },
+    {
+        "article": [
+            {
+                "title": "Opinion",
+                "published": null,
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/OGQNBL5SF5GYZLDQRWFZKPMM7U.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "As the collapse of the Terra ecosystem enters its final, definitive stages, signs of the real-world wreckage caused by the flawed virtual project are impossible to miss. On social media and message boards, former LUNA backers are reporting huge losses, despair and hopelessness. Secondhand reports suggest a rash of suicides and attempts.",
+                    "It's a sobering moment for those of us in the crypto-watching business. I’ve spent a great deal of time over the last two years trying to highlight absurdities in the bubbly crypto market (including predicting luna’s failure), but I still find myself somewhat shocked by just how exposed civilians became to one of the most experimental projects in the industry. And to be explicit, the crypto industry is still best thought of as entirely experimental.",
+                    "This article is excerpted from The Node, CoinDesk's daily roundup of the most pivotal stories in blockchain and crypto news. You can subscribe to get the full newsletter here.",
+                    "The scale of the loss is, in one sense, easy to understand: It is total.",
+                    "The Terra ecosystem has entered a hyperinflationary “death spiral.” This fallout was baked into the network’s supposedly stabilizing algorithm, and LUNA will continue to asymptotically approach zero. The UST algorithmic stablecoin price, currently at 18 cents instead of a dollar, will crumble towards zero as well. A \"recovery plan\" posted by Do Kwon this morning is an insulting joke. That wipes out roughly $68 billion, the combined paper value of LUNA and UST at the end of last week. Exchanges continue to facilitate trading in the tokens, a decision with murky ethical implications.",
+                    "The scale and severity of individual losses is harder to grasp. As a thought experiment, cut LUNA/UST’s total supply cap in half to account for the internal holdings of ecosystem projects and assume outside investors held an average of $20,000 in UST or LUNA before the crash. Dividing $34 billion by $20,00 implies 1.7 million holders lost what 99.9% of the humans on Earth would consider a life-changing amount of money.",
+                    "Those weren’t all real dollars because many bought LUNA below the May 12 price peak. But paper losses can still be devastating, and many folks did lose real money, particularly those who bought supposedly “stable” UST to farm the 20% yield on the system’s heavily subsidized Anchor lending protocol.",
+                    "The signs of deep and widespread distress have been mounting all week. Matthew Graham, a crypto VC noted for his accessibility online, reports getting a wave of despairing messages from those caught in the broken system’s catastrophic unwinding. Police have reportedly been called to protect Terra founder Do Kwon’s home in South Korea, where angry investors have reportedly been threatening his safety.",
+                    "See also: Do Kwon's Proposed Terra 'Revival'",
+                    "The darkest reports are of people contemplating or following through on self-harm. In a tweet that is no longer public, one former LUNA partisan going by @terranaut3 claimed to know of at least eight people who have taken their own lives in the days since the unwind. The Terra subreddit is full of reports of suicides and attempts, links to mental health hotlines and dire reports of financial immolation. Most of that was posted before the forum was locked two days ago, when LUNA was still trading at hundreds of times its current price. CoinDesk hasn’t confirmed these stories, but they seem all too plausible.",
+                    "I am not a counselor, but for anyone in this position there is one key practicality: Declaring bankruptcy is a far better option than harming yourself. That’s particularly true in the U.S., where bankruptcy laws in some states could protect you from seizure of your home or automobile.",
+                    "Crypto washouts aren’t new, but these reports of despairing LUNA holders are novel in one way: a huge number of “normies” appear to have been suckered into buying UST and LUNA. For most of the time that I’ve spent in crypto, the bulk of the money in the system came from people who were actively engaged with crypto ideals or technology, or from investors and traders with big risk appetites.",
+                    "The 2020-2021 crypto craze was much bigger and had much wider retail reach, so its fallout will be fundamentally different from the deflation of the 2018 crypto bubble. We can certainly expect to see a rush of regulatory scrutiny in response, but crypto insiders should also take time to reflect on whether their behavior has put retail speculators at unnecessary risk.",
+                    "See also: Is Bitcoin a Risk-On or a Risk-Off Asset? Maybe It's Neither | Opinion",
+                    "High on the list of examples here is crypto fund manager Mike Novogratz, who famously displayed a huge LUNA tattoo in January and declared himself “officially a Lunatic.” Reports have since surfaced that Novo’s fund actually exited LUNA by March, but if he ever disclosed that walkback it didn’t get remotely the traction of his bullish flag-waving. From the outside, that looks an awful lot like pump-and-dump behavior, in spirit if not substance.",
+                    "The other shift I hope to see out of this mess is a lot more humility, critical thinking and serious openness to contrary opinions. Before the death spiral began at the start of the week, about 17,000 CoinDesk visitors read my April 22 piece outlining the scenario for LUNA’s failure that ultimately played out. If just a few dozen of those readers took steps to protect themselves before that failure actually happened – heck, if even one reader did – that’s what I’m here for. The next time you see critics and skeptics dismissed as FUDders, attacked and dismissed, just remember: We’re here to help. Let us."
+                ]
+            }
+        ],
+        "title": "The Human Cost of Lunatic Hubris",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/layer2/2022/05/13/the-human-cost-of-lunatic-hubris/"
+    },
+    {
+        "article": [
+            {
+                "title": "Opinion",
+                "published": null,
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/OJLAX4TRKBEX5OVVJERFDC3FZQ.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "If you’re invested in crypto, it’s hard not to think about the red ink in your wallet right now as concerns over the U.S. Federal Reserve’s interest rate hikes have walloped token prices.",
+                    "But if you want to think about the long-term outlook, it’s better not to look at your “DeFi” holdings but at your “TradFi” portfolio of stocks and bonds. While the losses haven’t been as brutal there as in crypto, those markets are also tanking, and to such an extent that it will eventually prompt a policy response, one that will impact crypto.",
+                    "You’re reading Money Reimagined, a weekly look at the technological, economic and social events and trends that are redefining our relationship with money and transforming the global financial system. Subscribe to get the full newsletter here.",
+                    "The Fed is currently in a hawkish mode as it is dead set on choking off inflation. But it’s easy to imagine that once Wall Street’s pain feeds into the mainstream economy – which it most certainly will – and when that starts to fuel political easing – which it most certainly will – the central bank will turn dovish again. After that, economic circumstances in the post-coronavirus pandemic world could quickly become so dire that, in the absence of other options for addressing them, the Fed and other central banks will return to the same policy framework of the past decade and a half, with interests near zero and quantitative easing (QE) the norm. And that will be the foundation of a crypto rebound.",
+                    "The complicating factor here is what this might mean for the Fed’s reputation. If it returns so quickly to a policy solution that has created wild distortions and contributed to the inflation woes of the past year, might that show that our entire monetary system is broken? Might that finally be the moment in which people recognize that we need a new model?",
+                    "After so many false starts, I’m reluctant to declare that the next cycle is the one in which crypto and Web 3 technologies and ideas rise above the fad-like way in which mainstream investors and businesses otherwise tend to engage with them and instead become more integrated into the global economy. But I do think a dynamic in which central banks feel compelled to deliver “helicopter money” could have an “Emperor’s New Clothes” effect where people question the dominant financial paradigm and look to alternatives.",
+                    "Before we view what lies ahead of us, let's turn the clock back 14 years to address the root problem.",
+                    "In the aftermath of the 2008 financial crisis, it became clear in the U.S. that a failure of federal governmental action left monetary policy as the only lever for boosting economic growth. That dependency is now, arguably, even more entrenched.",
+                    "It wasn’t always the case. In the 1930s, the solution to the Depression lay in the rollout of massive government-funded public works projects and the creation of a welfare backstop for those out of work. This eventually drove economic recovery and created an infrastructure base upon which the U.S. economy’s great 20th-century expansion was built.",
+                    "But in 2009 and beyond, the Obama Administration was thrust into battle with a Republican-controlled Congress. The two sides searched, against all odds, for a bipartisan agreement to back fiscal spending projects, but other than the controversial trillion-dollar bailout programs that kept Wall Street from imploding, nothing substantial to address mainstream America’s needs was ever passed. Stimulus initiatives became piecemeal and politicized and were ultimately insufficient to give the U.S. economy what it needed to grow.",
+                    "Read more: David Z. Morris - Will Rising Interest Rates Sink the Crypto Ecosystem?",
+                    "This was a deeper problem than most people recognized. It directly challenged confidence in the democratic process, which is supposed to be the mechanism by which public resources are distributed in service of a common national interest.",
+                    "Libertarians, of which the crypto community claims many, might argue that the best thing the government could do was to get out the way. But their idealism tends to ignore the preexisting market distortions created by Wall Street’s politically privileged place in the economy, a privilege that was most clearly manifest during the housing bubble that preceded the crisis. As such, “getting out the way” was in itself a biased action. U.S. banks got their bailouts, but everyone else got crumbs.",
+                    "The upshot of our politicians abdicating their responsibility in this regard is that the burden for stimulating a moribund economy fell to the Fed, which was forced to cut interest rates so aggressively that it quickly hit the so-called zero bound. With no room left to go lower beyond zero percent, quantitative easing became the solution. Buying bonds and, later, other financial instruments, was a way to keep market borrowing rates low for companies that use the capital markets to raise funds.",
+                    "The trillions in monetary expansion kept things afloat but also proved to be a brutally blunt instrument. Savers were harmed, borrowers were helped. Hedge funds and other institutional owners of stocks, bonds and other financial instruments made out like bandits while tens of millions struggled to keep their head above water.",
+                    "Regardless, QE became the default option whenever times got even slightly tough, which is what we saw during the pandemic. The Fed instituted what became known as “Infinity QE,” an unlimited commitment to keep buying assets to keep rates low. Combined with the distortions in demand and supply brought on by the pandemic’s economic disruptions, it was a recipe for the runaway inflation that eventually arose.",
+                    "Fast forward to 2022. Political divisions are arguably even worse than they were in the Obama era. And confidence in the government to resolve our economic challenges is at all-time lows.",
+                    "So, what happens when this year’s financial meltdown leads to the inevitable pullback in financing for everything from startup ventures to homes? Growth will dramatically stall and jobs will be lost. And while that slowdown in demand should help to stall inflation, there’s a legitimate fear that COVID-led supply chain problems will mean that shortages and price appreciation continue.",
+                    "It’s hard to believe Congress will agree to aggressive stimulus to solve this. So, as the midterm elections approach and the problem becomes politicized, the pressure will grow on the Fed to act.",
+                    "But what then? The effectiveness of monetary policy depends on confidence in the overarching system –- that people trust that the Fed will protect the value of the dollar even as it boosts money supply. It’s not clear that that confidence will last in response to such an about-face.",
+                    "In other words, the failure of the overarching system, writ large, will become apparent. And that’s where Bitcoin and blockchain solutions pose the alternative."
+                ]
+            }
+        ],
+        "title": "Why the Fed Will Go Back to Easy Money",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/layer2/2022/05/13/why-the-fed-will-go-back-to-easy-money/"
+    },
+    {
+        "article": [
+            {
+                "title": "Opinion",
+                "published": null,
+                "image": {
+                    "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/4DU5VEKEENDGVEBLI3OFGCJNHU.jpg",
+                    "alt": null
+                },
+                "paragraph": [
+                    "Janet Yellen, recently speaking at American University, made erudite, sensible remarks about the right approach to regulate digital currencies and assets, innovation and the policies surrounding them.",
+                    "The U.S. Treasury Secretary noted the sector's explosive growth from $14 billion to $3 trillion in just five years and its origins, even touching on the original Bitcoin white paper’s solution for preventing the same digital assets being spent twice, a key criticism of systems preceding Bitcoin.",
+                    "Yellen said that “the government's role should be to ensure responsible innovation – innovation that works for all Americans, protects our national security interests and our planet, and contributes to our economic competitiveness and growth. Such responsible innovation should reflect thoughtful public-private dialogue and take account of the many lessons we've learned throughout our financial history. This sort of pragmatism has served us well in the past and I believe it is the right approach today.\"",
+                    "Adelle Nazarian is the CEO of the American Blockchain PAC, which protects innovation in blockchain and digital assets in the U.S. and opposes legislation that limits the growth of crypto assets.",
+                    "In a recent interview with the Huffington Post about crypto legislation, I observed that we needed new rules, language and a more elastic framework for initial coin offerings (ICO) consistent with anti-money laundering (AML) and know-your-customer (KYC) rulemaking that would ensure innovation could continue to flourish.",
+                    "The American Blockchain PAC that I lead as CEO welcomed Secretary Yellen's sound guidelines for a process of developing a legal and regulatory structure to protect the public while creating a climate that fosters innovation. As it happens, Rep. Glen \"GT\" Thompson (R-Pa.) has significantly advanced this process by proposing a thoughtful, well-formulated \"crypto regulatory blueprint.\"",
+                    "The \"Thompson principles\" offer a framework for digital commodities exchanges, voluntary registration and qualified digital commodity custodians. They also offer an improved process to create digital commodities; to provide a full accounting of stablecoin assets and liabilities; to protect customers using stablecoins and register asset-backed digital commodity users. They would comply with and apply to pre-sold digital commodities.",
+                    "Read More: Treasury Secretary Janet Yellen Calls Crypto 'Transformative' in Wide-Ranging Speech",
+                    "These proposals honor Secretary Yellen's prescribed process. Let's sample the proposed voluntary registration:",
+                    "\"Trading venues would opt into the [Commodity Futures Trading Commission] Digital Commodity Exchange regime or remain regulated under individual state money transmitter licenses. Trading venues will be incentivized to choose CFTC regulation to reduce their regulatory burdens by facing only one regulator, be eligible to offer leveraged trading, and be the point of entry for new digital commodities to the retail public.\"",
+                    "According to the Congressional Research Service, 49 states require registration as money transmitters. It costs millions of dollars and years of working through the bureaucratic labyrinths followed by continuing onerous compliance requirements to make this a reality. This process is prohibitive for most startups, reducing innovation without providing meaningful added public protection. Allowing enterprises to choose \"one-stop shopping\" honors Secretary Yellen's counsel of pragmatism.",
+                    "Congress and the financial services industry finally grasp that cryptocurrency is not just another extraordinary, popular delusion or the result of the madness of crowds. The blockchain (from which cryptocurrencies are fashioned) is fundamental to many important emerging technologies like non-fungible tokens, Web 3, and the metaverse.",
+                    "And President Joe Biden's Executive Order on \"Ensuring the Responsible Development of Digital Assets\" calls for the mitigation of risks while recognizing that \"the United States has an interest in ensuring that it remains at the forefront of responsible development and design of digital assets and the technology that underpins new forms of payments and capital flows in the international financial system. …\"",
+                    "The White House, the Secretary of the Treasury and members of Congress, including Rep. Thompson and the chairs of the Congressional Blockchain Caucus – Reps. Bill Foster (D-Ill.), Darren Soto (D-Fla.), David Schweikert (R-Ariz.) and Tom Emmer (R-Minn.) – are representatives of the burgeoning distributed ledger sector, as is the American Blockchain PAC.",
+                    "The principals of the public-private dialogue commended by Secretary Yellen have already been assembled. It is time for all these parties to convene in the Secretary's Conference Room.",
+                    "Such a conversation would foster President Biden's and Secretary Yellen's regard for public safety, keep America at the forefront of responsible development and shape the future of digital assets and technology.",
+                    "Read More: Joe Biden’s Crypto Executive Order Is a Symbol",
+                    "CORRECTION (May 13, 2022, 21:49 UTC): David Schweikert is a member of the growing distributed ledger sector."
+                ]
+            }
+        ],
+        "title": "Yellen Call for 'Responsible' Crypto Innovation Is Right",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/layer2/2022/05/13/yellen-call-for-responsible-crypto-innovation-is-right/"
+    }
+]

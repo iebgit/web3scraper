@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import news from './news.json'
 import { ethers } from "ethers";
 import './App.css';
 import './MetaButton.css';
@@ -49,7 +50,6 @@ class App extends Component<IProps, IState> {
   componentDidMount = async () => {
     try {
       await this.getUserData();
-      await this.fetchDB()
       if (window.ethereum.isConnected()) {
       } else {
         this.setState({ message: "Disconnected" });
@@ -135,27 +135,9 @@ class App extends Component<IProps, IState> {
   };
 
 
-  fetchDB = async () => {
-    const newsData = await window.fetch(
-      'https://web3scraper-default-rtdb.firebaseio.com/news/data.json?print=pretty'
-    )
-    const newsJson = await newsData.json();
-    this.setState({ news: newsJson });
-    console.log(newsJson)
-  }
-
-  fetchNetworks = async () => {
-    const networksData = await window.fetch(
-      'https://web3scraper-default-rtdb.firebaseio.com/networks/data.json?print=pretty'
-    );
-    const networks = await networksData.json();
-    this.setState({ networks });
-    console.log(networks)
-  };
-
   render() {
     while (true) {
-      if (!this.state.news) {
+      if (!news) {
         return (
           <div className="App">
             <div className='App-abyss'></div>
@@ -172,7 +154,7 @@ class App extends Component<IProps, IState> {
           <div className="App">
             <Container >
               <StoppableMarquee
-                news={this.state.news}
+                news={news}
                 color={this.state.network.btn}
                 network={this.state.network}
                 networks={this.state.networks}

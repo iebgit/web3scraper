@@ -16,7 +16,7 @@ interface IProps {
   networks: any
 }
 
-function StoppableMarquee({ news, color, network, networks }: IProps) {
+function StoppableMarquee({news, color, network, networks }: IProps) {
   let [move, setMove] = useState(true)
   let [playIcon, setPlayIcon] = useState(pause)
   let [currentIndex, setCurrentIndex] = useState(0)
@@ -24,7 +24,7 @@ function StoppableMarquee({ news, color, network, networks }: IProps) {
   let [article, setArticle] = useState(news[0].article[0])
   let [source, setSource] = useState(news[0].source)
   // let [subheading, setSubheading] = useState(news[0].article[0].subheading)
-  let [published, setPublished] = useState(news[0].article[0].published[0])
+  let [published, setPublished] = useState(news[0].article[0].published)
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
@@ -64,12 +64,9 @@ function StoppableMarquee({ news, color, network, networks }: IProps) {
         setUrl(news[x].url)
         ////commented out because coindesk seems to have articles without the h2 tag
         // setSubheading(news[x].article[0].subheading)
-        if (news[x].article[0].published.length > 1) {
-
-          setPublished(news[x].article[0].published[0] + ' | ' + news[x].article[0].published[news[x].article[0].published.length - 1])
-        } else {
-          setPublished(news[x].article[0].published[0])
-        }
+              
+          setPublished(news[x].article[0].published)
+     
 
         console.log(news[x])
       }
